@@ -27,3 +27,4 @@
    deberán justificar la selección de los datos a partir del objetivo específico de su trabajo.
 
 Los trabajos deberán arrancar de los ficheros FASTQ disponibles, aunque en los repositorios de datos NGS puedan estar disponibles ficheros BAM con los alineamientos BAM ya obtenidos. No se podrán utilizar datos que posteriormente sean utilizados por los estudiantes para su TFM.
+Probando
