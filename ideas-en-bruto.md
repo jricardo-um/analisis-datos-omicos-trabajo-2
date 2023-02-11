@@ -1,6 +1,6 @@
 # Ideas en bruto
 
-## Reservorios de enfermedades
+## Propagación de virus
 
 - Potenciales reserorios
   
