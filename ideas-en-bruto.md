@@ -16,9 +16,9 @@ Lista de virus a investigar:
 
 | pathogen | type<br>(genoma,dirección,#cadenas,membrana) | family | host protein |
 | --- | --- | --- | --- |
-| MERS-CoV | ARN,-,1,+ | Coronaviridae | DDP4,CD26 |
+| MERS-CoV | ARN,+,1,+ | Coronaviridae | DDP4,CD26 |
 | SARS-CoV | ?,?,?,? | Coronaviridae | ACE2 |
-| SARS-CoV-2 | ARN,-,1,+ | Coronaviridae | ACE2 |
+| SARS-CoV-2 | ARN,+,1,+ | Coronaviridae | ACE2 |
 | Marburgo | ?,?,?,? | ? | ? |
 | Gripe | ARN,-,1,? | ? | ? |
 
