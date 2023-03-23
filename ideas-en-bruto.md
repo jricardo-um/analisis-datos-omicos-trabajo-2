@@ -12,6 +12,19 @@
   
   - También se podría hacer con secuencias de proteina humanas separadas segun la susceptibilidad del paciente a contagiarse o a sufrir síntomas mayores, si hubiesen datos disponibles.
 
+Lista de virus a investigar:
+
+| pathogen | type<br>(genoma,dirección,#cadenas,membrana) | family | host protein |
+| --- | --- | --- | --- |
+| MERS-CoV | ARN,-,1,+ | Coronaviridae | DDP4,CD26 |
+| SARS-CoV | ?,?,?,? | Coronaviridae | ACE2 |
+| SARS-CoV-2 | ARN,-,1,+ | Coronaviridae | ACE2 |
+| Marburgo | ?,?,?,? | ? | ? |
+| Gripe | ARN,-,1,? | ? | ? |
+
+Info:
+`A poner links aquí`
+
 # Características de los tipos de trabajos (copiado)
 
 1. Ensamblado de novo. Se podrá partir de un conjunto de datos FASTQ para obtener su genoma. Una vez obtenido el ensamblado, se habrá de intentar anotar el contenido.
