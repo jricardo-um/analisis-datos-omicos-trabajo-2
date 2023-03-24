@@ -21,3 +21,10 @@ For each of the species we will research scientific literature for evidence of t
 We will align the proteins from species known to be affected by the virus and search for the conserved regions. Then, we will compare to the rest of the proteins in search for differences. We will use the provided Galaxy server for that purpose.
 
 We will then use those patterns to search again for new proteins and repeat the process in hope of discovery for potential new species. In case the molecular interactions have been already described in the literature, we will also compare the results with the known facts.
+
+### Proposed viruses and proteins
+
+```
+Virus:         Sars-CoV       MERS-CoV       Measles        
+Protein:       ACE2           DDP4 (CD26)    SLAM (CD150)   
+```
