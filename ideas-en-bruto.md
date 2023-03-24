@@ -19,7 +19,6 @@ Lista de virus a investigar:
 | MERS-CoV | ARN,+,1,+ | Coronaviridae | DDP4,CD26 |
 | SARS-CoV | ?,?,?,? | Coronaviridae | ACE2 |
 | SARS-CoV-2 | ARN,+,1,+ | Coronaviridae | ACE2 |
-| Marburgo | ?,?,?,? | ? | ? |
 | Gripe | ARN,-,1,? | ? | ? |
 | Measles | ARN,-,?,? | Paramyxoviridae | SLAM,CD150 |
 | Marburgo | ARN,-,1,? | Filoviridae | macrofagos, monocitos|
