@@ -1,10 +1,15 @@
-# Analysis of Omics Data - Homework 2 - Part 1
+# Analysis of Omics Data - Homework 2 Part 1
 
 By R. Urdiales Muñoz, M. A. Grela Hernandez, J. R. Alonso Fernandez.
 
 ## Preamble and objectives
 
-With the worldwide spread of SARS-CoV-2 the concern about natural reservoirs of virus has increased. On this proposal, we will take a look on the use of omic data analysis on identifying potential species which could act as a reservoir for viruses.
+With the worldwide spread of SARS-CoV-2 the concern about natural reservoirs of virus has increased. On this proposal, we will take a look on the use of omic data analysis on identifying potential species which could act as a reservoir for viruses. Proposed viruses:
+
+```
+Virus:         Sars-CoV       MERS-CoV       Measles        
+Protein:       ACE2           DDP4 (CD26)    SLAM (CD150)   
+```
 
 ## Analysis Proposal
 
@@ -21,10 +26,3 @@ For each of the species we will research scientific literature for evidence of t
 We will align the proteins from species known to be affected by the virus and search for the conserved regions. Then, we will compare to the rest of the proteins in search for differences. We will use the provided Galaxy server for that purpose.
 
 We will then use those patterns to search again for new proteins and repeat the process in hope of discovery for potential new species. In case the molecular interactions have been already described in the literature, we will also compare the results with the known facts.
-
-### Proposed viruses and proteins
-
-```
-Virus:         Sars-CoV       MERS-CoV       Measles        
-Protein:       ACE2           DDP4 (CD26)    SLAM (CD150)   
-```
