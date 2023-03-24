@@ -1,6 +1,6 @@
 # Analysis of Omics Data - Homework 2 - Part 1
 
-By R. Uriales Muñoz, M. A. Grela Hernandez, J. R. Alonso Fernandez.
+By R. Urdiales Muñoz, M. A. Grela Hernandez, J. R. Alonso Fernandez.
 
 ## Preamble and objectives
 
