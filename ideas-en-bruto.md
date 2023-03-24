@@ -21,7 +21,8 @@ Lista de virus a investigar:
 | SARS-CoV-2 | ARN,+,1,+ | Coronaviridae | ACE2 |
 | Marburgo | ?,?,?,? | ? | ? |
 | Gripe | ARN,-,1,? | ? | ? |
-
+[R] | Measles | ARN,-,?,? | Paramyxoviridae | SLAM,CD150 |
+[R] | Marburgo | ARN,-,1,? | Filoviridae | macrofagos, monocitos|
 Info:
 `A poner links aquí`
 
