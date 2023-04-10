@@ -8,6 +8,12 @@ Clonar el repositorio en local
 git clone https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2.git
 ```
 
+Guardar contraseña para no tener que escribirla siempre
+
+```bash
+git config credential.helper store
+```
+
 ## 1. Descargar de github
 
 Actualizar con los cambios más recientes
