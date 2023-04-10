@@ -5,4 +5,4 @@
 Sequence downloaded to [P27487.fasta](./P27487.fasta).
 
 
-Sequences downloaded with a 90% of similitude with P27487[P27487_similar.fasta](./P27487_similar.fasta)
+Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_similar.fasta)
