@@ -11,6 +11,7 @@ git clone https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2.git
 Guardar contraseña para no tener que escribirla siempre
 
 ```bash
+cd "git/folder"
 git config credential.helper store
 ```
 
