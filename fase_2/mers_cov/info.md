@@ -23,11 +23,11 @@ Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_si
 | Pan paniscus          | Yes    | \~                                                                                  |
 | Pongo abelii          | Yes    | \~                                                                                  |
 | Canis lupus familiaris| Yes    | https://www.mdpi.com/2076-2615/13/4/624                                             |
-| Dromedary camel       | Yes    | https://www.sciencedirect.com/science/article/abs/pii/S2213260014701584?via%3Dihub  |
-| Sheep                 | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Cow                   | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Goat                  | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Bat                   | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article                             |
+| Camelus dromedarius   | Yes    | https://www.sciencedirect.com/science/article/abs/pii/S2213260014701584?via%3Dihub  |
+| Ovis orientalis       | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
+| Bos taurus indicus    | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
+| Capra aegagrus hircus | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
+| Rhinolophus blasii    | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article                             |
 |                       |        |                                                                                     |
 |                       |        |                                                                                     |
 |                       |        |                                                                                     |
