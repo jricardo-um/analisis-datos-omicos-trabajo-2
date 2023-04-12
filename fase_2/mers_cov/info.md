@@ -23,3 +23,7 @@ Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_si
 | Pan paniscus        | Yes    | \~                                                                  |
 | Pongo abelii        | Yes    | \~                                                                  |
 | -                   | Yes    | \~                                                                  |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
