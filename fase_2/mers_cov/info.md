@@ -13,7 +13,7 @@ Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_si
 | Species             | Result | Paper                                                               |
 | ------------------- | ------ | ------------------------------------------------------------------- |
 | Chlorocebus aethiops| Yes    | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706928/               |
-| Rhesus macaque      | Yes    | https://academic.oup.com/jid/article/209/2/236/829418               |
+| Rhesus macaque      | Yes    | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107340/               |
 | Saimiri boliviensis | Yes    | \~                                                                  |
 | Aotus nancymaae     | Yes    | \~                                                                  |
 | Cercocebus atys     | Yes    | \~                                                                  |
