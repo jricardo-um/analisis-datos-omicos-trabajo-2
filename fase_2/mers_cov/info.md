@@ -27,7 +27,7 @@ Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_si
 | Ovis orientalis       | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
 | Bos taurus indicus    | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
 | Capra aegagrus hircus | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Rhinolophus blasii    | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article                             |
+| Rousettus aegyptiacus | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article                             |
 |                       |        |                                                                                     |
 |                       |        |                                                                                     |
 |                       |        |                                                                                     |
