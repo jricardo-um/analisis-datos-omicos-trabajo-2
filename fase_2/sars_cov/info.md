@@ -12,3 +12,22 @@ Representative sequences for groups downloaded as [uniprot_fasta_ACE2_repr_clust
 
 TODO: align, compare and download needed groups individually.
 
+> Search for evidence
+
+| Species             | Result | Paper                                                               |
+| ------------------- | ------ | ------------------------------------------------------------------- |
+| cat                 | Yes    | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7315787/               |
+| mice                | No     | https://www.sciencedirect.com/science/article/pii/S0165614720301292 |
+| Syrian hamster      | Yes    | \~                                                                  |
+| ferrets             | Yes    | \~                                                                  |
+| Cynomolgus macaques | Yes    | \~                                                                  |
+| pigs                | No     | https://doi.org/10.1126/science.abb7015                             |
+| chickens            | No     | \~                                                                  |
+| ducks               | No     | \~                                                                  |
+| dogs                | Low    | \~                                                                  |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
+|                     |        |                                                                     |
