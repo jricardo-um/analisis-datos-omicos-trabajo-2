@@ -1,16 +1,15 @@
 # host protein sequence
 
-> [UniProt Q9BYF1 entry](https://www.uniprot.org/uniprotkb/Q9BYF1/entry)
+Initial data sources:
 
-Sequence downloaded to [Q9BYF1.fasta](./Q9BYF1.fasta).
-
-Isoform 2 only found on infected cells, replaces first 356 residues with `MREAGWDKGG`. Therefore, it's probably in there where the virus spike protein binds.
-
-> [UniProt Q9BYF1 similar](https://www.uniprot.org/uniref?dir=descend&query=%28cluster:UniRef50_Q9BYF1%29%20AND%20%28identity:0.9%29&sort=count)
-
-Representative sequences for groups downloaded as [uniprot_fasta_ACE2_repr_clusters.fasta](./uniprot_fasta_ACE2_repr_clusters.fasta).
+- [uniprotkb/Q9BYF1](https://www.uniprot.org/uniprotkb/Q9BYF1/entry) downloaded sequence as [Q9BYF1.fasta](./Q9BYF1.fasta).
+- [uniref/50_Q9BYF1](https://www.uniprot.org/uniref/UniRef50_Q9BYF1)
+  - [clusters with 90% identity](https://www.uniprot.org/uniref?query=%28cluster:UniRef50_Q9BYF1%29%20AND%20%28identity:0.9%29) downloaded representatives as [c50_i90_Q9BYF1.fasta](./c50_i90_Q9BYF1.fasta).
+  - each cluster's sequences downloaded if needed
 
 TODO: align, compare and download needed groups individually.
+
+NOTE: Isoform 2 only found on infected cells, replaces first 356 residues with `MREAGWDKGG`. Therefore, it's probably in there where the virus spike protein binds.
 
 > Search for evidence
 
@@ -34,6 +33,9 @@ TODO: align, compare and download needed groups individually.
 | lion       | yes      | yes        |
 | mink       | yes      | yes        |
 | rabbit     |          | no         |
+|            |          |            |
+|            |          |            |
+|            |          |            |
 |            |          |            |
 |            |          |            |
 
