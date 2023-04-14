@@ -1,0 +1,275 @@
+sp|Q9BYF1|ACE2_HUMAN Angiotensin-converting enzyme 2 OS=Homo sapiens OX=9606 GN=ACE2 PE=1 SV=2	1685
+tr|A0A8S0M502|A0A8S0M502_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE2 PE=2 SV=1	1684
+tr|B2RCJ5|B2RCJ5_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 PE=2 SV=1	1682
+tr|G3QWX4|G3QWX4_GORGO Angiotensin-converting enzyme OS=Gorilla gorilla gorilla OX=9595 GN=ACE2 PE=3 SV=2	1671
+tr|A0A2J8KU96|A0A2J8KU96_PANTR Angiotensin-converting enzyme OS=Pan troglodytes OX=9598 GN=ACE2 PE=3 SV=1	1670
+tr|A0A6D2WX78|A0A6D2WX78_PANTR Angiotensin-converting enzyme OS=Pan troglodytes OX=9598 GN=CK820_G0035758 PE=3 SV=1	1670
+tr|A0A2R9BKD8|A0A2R9BKD8_PANPA Angiotensin-converting enzyme OS=Pan paniscus OX=9597 GN=ACE2 PE=3 SV=1	1669
+tr|A0A2J8W4D8|A0A2J8W4D8_PONAB Angiotensin-converting enzyme OS=Pongo abelii OX=9601 GN=ACE2 PE=3 SV=1	1660
+sp|Q5RFN1|ACE2_PONAB Angiotensin-converting enzyme 2 OS=Pongo abelii OX=9601 GN=ACE2 PE=2 SV=1	1657
+tr|G1RE79|G1RE79_NOMLE Angiotensin-converting enzyme OS=Nomascus leucogenys OX=61853 GN=ACE2 PE=3 SV=1	1651
+tr|A0A8C9GER2|A0A8C9GER2_9PRIM Angiotensin-converting enzyme OS=Piliocolobus tephrosceles OX=591936 GN=ACE2 PE=3 SV=1	1615
+tr|A0A7I2V3X6|A0A7I2V3X6_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE2 PE=1 SV=1	1614
+tr|A0A7I2V2E9|A0A7I2V2E9_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE2 PE=1 SV=1	1612
+tr|A0A7I2V3N4|A0A7I2V3N4_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE2 PE=1 SV=1	1612
+tr|A0A7I2V4H0|A0A7I2V4H0_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE2 PE=1 SV=1	1611
+tr|A0A2K6NFG7|A0A2K6NFG7_RHIRO Angiotensin-converting enzyme OS=Rhinopithecus roxellana OX=61622 GN=ACE2 PE=3 SV=1	1600
+tr|A0A8D2FGX9|A0A8D2FGX9_THEGE Angiotensin-converting enzyme OS=Theropithecus gelada OX=9565 GN=ACE2 PE=3 SV=1	1597
+tr|A0A096N4X9|A0A096N4X9_PAPAN Angiotensin-converting enzyme OS=Papio anubis OX=9555 GN=ACE2 PE=3 SV=2	1597
+tr|A0A2K6D1N8|A0A2K6D1N8_MACNE Angiotensin-converting enzyme OS=Macaca nemestrina OX=9545 GN=ACE2 PE=3 SV=1	1596
+tr|B6DUE7|B6DUE7_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1596
+tr|B6DUE3|B6DUE3_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1595
+tr|B6DUE5|B6DUE5_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1595
+tr|B6DUE9|B6DUE9_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1594
+tr|A0A2K5X283|A0A2K5X283_MACFA Angiotensin-converting enzyme OS=Macaca fascicularis OX=9541 GN=ACE2 PE=3 SV=1	1594
+tr|F7AH40|F7AH40_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=3	1594
+tr|B6DUF3|B6DUF3_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1594
+tr|G7NSA6|G7NSA6_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=EGK_20288 PE=3 SV=1	1594
+tr|B6DUF1|B6DUF1_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1594
+tr|A0A2K5KSD8|A0A2K5KSD8_CERAT Angiotensin-converting enzyme OS=Cercocebus atys OX=9531 GN=ACE2 PE=3 SV=1	1592
+tr|G7Q2A0|G7Q2A0_MACFA Angiotensin-converting enzyme OS=Macaca fascicularis OX=9541 GN=EGM_18579 PE=3 SV=1	1592
+tr|B6DUE1|B6DUE1_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1592
+tr|B6DUE8|B6DUE8_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1592
+tr|B6DUE2|B6DUE2_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1592
+tr|B6DUF2|B6DUF2_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1592
+tr|B6DUG2|B6DUG2_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1591
+tr|B6DUF5|B6DUF5_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1590
+tr|B6DUF7|B6DUF7_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1590
+tr|B6DUG5|B6DUG5_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1590
+tr|B6DUG6|B6DUG6_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1588
+tr|B6DUF8|B6DUF8_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1588
+tr|B6DUF9|B6DUF9_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1588
+tr|B6DUE4|B6DUE4_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1588
+tr|B6DUG0|B6DUG0_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1588
+tr|A0A2K5ZV99|A0A2K5ZV99_MANLE Angiotensin-converting enzyme OS=Mandrillus leucophaeus OX=9568 GN=ACE2 PE=3 SV=1	1587
+tr|B6DUE6|B6DUE6_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1587
+tr|B6DUF6|B6DUF6_MACMU Angiotensin-converting enzyme OS=Macaca mulatta OX=9544 GN=ACE2 PE=2 SV=1	1584
+tr|A0A0D9RQZ0|A0A0D9RQZ0_CHLSB Angiotensin-converting enzyme OS=Chlorocebus sabaeus OX=60711 GN=ACE2 PE=3 SV=1	1584
+tr|Q1LZX8|Q1LZX8_CHLAE Angiotensin-converting enzyme OS=Chlorocebus aethiops OX=9534 GN=ACE2 PE=2 SV=1	1580
+tr|A0A2K6SBD4|A0A2K6SBD4_SAIBB Angiotensin-converting enzyme OS=Saimiri boliviensis boliviensis OX=39432 GN=ACE2 PE=3 SV=1	1563
+tr|A0A6J3II99|A0A6J3II99_SAPAP Angiotensin-converting enzyme OS=Sapajus apella OX=9515 GN=ACE2 PE=3 SV=1	1537
+tr|A0A2K5DQI6|A0A2K5DQI6_AOTNA Angiotensin-converting enzyme OS=Aotus nancymaae OX=37293 GN=ACE2 PE=3 SV=1	1529
+tr|A0A2K5PYM0|A0A2K5PYM0_CEBIM Angiotensin-converting enzyme OS=Cebus imitator OX=2715852 GN=ACE2 PE=3 SV=1	1523
+tr|F7CNJ6|F7CNJ6_CALJA Angiotensin-converting enzyme OS=Callithrix jacchus OX=9483 GN=ACE2 PE=3 SV=2	1521
+tr|A0A5F4W5D9|A0A5F4W5D9_CALJA Angiotensin-converting enzyme 2 OS=Callithrix jacchus OX=9483 GN=ACE2 PE=3 SV=1	1501
+tr|A0A2K6LKA0|A0A2K6LKA0_RHIBE Angiotensin-converting enzyme OS=Rhinopithecus bieti OX=61621 GN=ACE2 PE=3 SV=1	1495
+tr|A0A8D2JNG0|A0A8D2JNG0_SCIVU Angiotensin-converting enzyme OS=Sciurus vulgaris OX=55149 GN=ACE2 PE=3 SV=1	1476
+tr|I3M887|I3M887_ICTTR Angiotensin-converting enzyme OS=Ictidomys tridecemlineatus OX=43179 GN=ACE2 PE=3 SV=2	1455
+tr|A0A8C2UPB0|A0A8C2UPB0_CHILA Angiotensin-converting enzyme OS=Chinchilla lanigera OX=34839 GN=Ace2 PE=3 SV=1	1451
+tr|A0A7D5FXN8|A0A7D5FXN8_RABIT Angiotensin-converting enzyme OS=Oryctolagus cuniculus OX=9986 PE=2 SV=1	1451
+tr|G1TEF4|G1TEF4_RABIT Angiotensin-converting enzyme OS=Oryctolagus cuniculus OX=9986 GN=ACE2 PE=3 SV=2	1449
+tr|A0A8D2KIZ1|A0A8D2KIZ1_UROPR Angiotensin-converting enzyme OS=Urocitellus parryii OX=9999 GN=ACE2 PE=3 SV=1	1448
+tr|A0A2K6GHW5|A0A2K6GHW5_PROCO Angiotensin-converting enzyme OS=Propithecus coquereli OX=379532 GN=ACE2 PE=3 SV=1	1447
+tr|A0A8C9UP43|A0A8C9UP43_SPEDA Angiotensin-converting enzyme OS=Spermophilus dauricus OX=99837 PE=3 SV=1	1446
+tr|A0A8C5YX98|A0A8C5YX98_MARMA Angiotensin-converting enzyme OS=Marmota marmota marmota OX=9994 GN=ACE2 PE=3 SV=1	1446
+tr|A0A0N8EUX7|A0A0N8EUX7_HETGA Angiotensin-converting enzyme OS=Heterocephalus glaber OX=10181 GN=ACE2 PE=3 SV=1	1441
+tr|A0A6C0PIH2|A0A6C0PIH2_RABIT Angiotensin-converting enzyme OS=Oryctolagus cuniculus OX=9986 GN=ACE2 PE=2 SV=1	1440
+tr|G5C234|G5C234_HETGA Angiotensin-converting enzyme OS=Heterocephalus glaber OX=10181 GN=GW7_08546 PE=3 SV=1	1439
+tr|A0A8C4KQS2|A0A8C4KQS2_EQUAS Angiotensin-converting enzyme OS=Equus asinus asinus OX=83772 GN=ACE2 PE=3 SV=1	1439
+tr|F6V9L3|F6V9L3_HORSE Angiotensin-converting enzyme OS=Equus caballus OX=9796 GN=ACE2 PE=1 SV=1	1438
+tr|A0A8C8YW84|A0A8C8YW84_PROSS Angiotensin-converting enzyme OS=Prolemur simus OX=1328070 GN=ACE2 PE=3 SV=1	1431
+tr|C7ECU6|C7ECU6_PAGLA Angiotensin-converting enzyme OS=Paguma larvata OX=9675 PE=2 SV=1	1428
+sp|Q56NL1|ACE2_PAGLA Angiotensin-converting enzyme 2 OS=Paguma larvata OX=9675 GN=ACE2 PE=1 SV=1	1428
+tr|A0A6P6IQM4|A0A6P6IQM4_PUMCO Angiotensin-converting enzyme OS=Puma concolor OX=9696 GN=ACE2 PE=3 SV=1	1425
+tr|A0A7G6KLV6|A0A7G6KLV6_9CARN Angiotensin-converting enzyme (Fragment) OS=Neofelis diardi OX=427616 PE=3 SV=1	1422
+tr|A0A7G6KLV8|A0A7G6KLV8_NEONE Angiotensin-converting enzyme (Fragment) OS=Neofelis nebulosa OX=61452 PE=3 SV=1	1422
+tr|A0A6P4TH77|A0A6P4TH77_PANPR Angiotensin-converting enzyme OS=Panthera pardus OX=9691 GN=ACE2 PE=3 SV=1	1422
+tr|A0A8C8Y6V3|A0A8C8Y6V3_PANLE Angiotensin-converting enzyme OS=Panthera leo OX=9689 GN=ACE2 PE=3 SV=1	1421
+tr|A0A452R1Z9|A0A452R1Z9_URSAM Angiotensin-converting enzyme OS=Ursus americanus OX=9643 GN=ACE2 PE=3 SV=1	1420
+tr|A0A384CIJ9|A0A384CIJ9_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=2	1420
+tr|A0A6J1YZV2|A0A6J1YZV2_ACIJB Angiotensin-converting enzyme OS=Acinonyx jubatus OX=32536 GN=ACE2 PE=3 SV=1	1420
+tr|A0A7D5GAH0|A0A7D5GAH0_FELCA Angiotensin-converting enzyme OS=Felis catus OX=9685 PE=2 SV=1	1420
+sp|Q56H28|ACE2_FELCA Angiotensin-converting enzyme 2 OS=Felis catus OX=9685 GN=ACE2 PE=1 SV=1	1420
+tr|A0A8J6FZ33|A0A8J6FZ33_MICOH Angiotensin-converting enzyme OS=Microtus ochrogaster OX=79684 GN=LTLLF_201125 PE=3 SV=1	1420
+tr|A0A485NF12|A0A485NF12_LYNPA Angiotensin-converting enzyme OS=Lynx pardinus OX=191816 GN=LYPA_23C005306 PE=3 SV=1	1418
+tr|C7ECU0|C7ECU0_CHILA Angiotensin-converting enzyme OS=Chinchilla lanigera OX=34839 PE=2 SV=1	1418
+tr|A0A8B6YNL4|A0A8B6YNL4_CAMFR Angiotensin-converting enzyme OS=Camelus ferus OX=419612 GN=ACE2 PE=3 SV=1	1417
+tr|A0A6P6ESQ8|A0A6P6ESQ8_OCTDE Angiotensin-converting enzyme OS=Octodon degus OX=10160 GN=Ace2 PE=3 SV=1	1417
+tr|C7ECU4|C7ECU4_RABIT Angiotensin-converting enzyme (Fragment) OS=Oryctolagus cuniculus OX=9986 PE=2 SV=1	1417
+tr|A0A5F5XDN9|A0A5F5XDN9_FELCA Angiotensin-converting enzyme OS=Felis catus OX=9685 GN=ACE2 PE=3 SV=1	1416
+tr|A0A6M4RU53|A0A6M4RU53_FELCA Angiotensin-converting enzyme OS=Felis catus OX=9685 GN=ACE2 PE=2 SV=1	1415
+tr|D2I608|D2I608_AILME Angiotensin-converting enzyme (Fragment) OS=Ailuropoda melanoleuca OX=9646 GN=PANDA_021163 PE=3 SV=1	1414
+tr|A0A452TT60|A0A452TT60_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1413
+tr|A0A6I9IHT2|A0A6I9IHT2_VICPA Angiotensin-converting enzyme OS=Vicugna pacos OX=30538 GN=ACE2 PE=3 SV=1	1412
+tr|A0A452TT30|A0A452TT30_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1412
+tr|A0A8C3WSW9|A0A8C3WSW9_9CETA Angiotensin-converting enzyme OS=Catagonus wagneri OX=51154 GN=ACE2 PE=3 SV=1	1412
+tr|A0A8C5JWR5|A0A8C5JWR5_JACJA Angiotensin-converting enzyme OS=Jaculus jaculus OX=51337 GN=Ace2 PE=3 SV=1	1412
+tr|A0A1U7TY97|A0A1U7TY97_CARSF Angiotensin-converting enzyme OS=Carlito syrichta OX=1868482 GN=ACE2 PE=3 SV=1	1412
+tr|A0A452CBT6|A0A452CBT6_BALAS Angiotensin-converting enzyme OS=Balaenoptera acutorostrata scammoni OX=310752 GN=ACE2 PE=1 SV=1	1412
+tr|A0A452TT98|A0A452TT98_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1411
+tr|A0A452TTD2|A0A452TTD2_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1410
+tr|A0A452TT37|A0A452TT37_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1410
+tr|A0A8D6HM88|A0A8D6HM88_MERUN Angiotensin-converting enzyme OS=Meriones unguiculatus OX=10047 GN=ACE2 PE=2 SV=1	1408
+tr|A0A8B8WGR5|A0A8B8WGR5_BALMU Angiotensin-converting enzyme OS=Balaenoptera musculus OX=9771 GN=ACE2 PE=3 SV=1	1407
+tr|A0A667IF49|A0A667IF49_LYNCA Angiotensin-converting enzyme OS=Lynx canadensis OX=61383 GN=ACE2 PE=3 SV=1	1402
+tr|A0A7G3TF51|A0A7G3TF51_MEGLY Angiotensin-converting enzyme OS=Megaderma lyra OX=9413 GN=ACE2 PE=3 SV=1	1401
+tr|A0A1U7QTA1|A0A1U7QTA1_MESAU Angiotensin-converting enzyme OS=Mesocricetus auratus OX=10036 GN=Ace2 PE=3 SV=1	1398
+tr|A0A8C2L9R7|A0A8C2L9R7_CRIGR Angiotensin-converting enzyme OS=Cricetulus griseus OX=10029 GN=Ace2 PE=3 SV=1	1396
+tr|A0A2Y9S5T9|A0A2Y9S5T9_PHYMC Angiotensin-converting enzyme OS=Physeter macrocephalus OX=9755 GN=ACE2 PE=3 SV=1	1394
+tr|A0A1S3GHT7|A0A1S3GHT7_DIPOR Angiotensin-converting enzyme OS=Dipodomys ordii OX=10020 GN=Ace2 PE=3 SV=1	1394
+tr|A0A061HZ66|A0A061HZ66_CRIGR Angiotensin-converting enzyme OS=Cricetulus griseus OX=10029 GN=H671_xg20748 PE=3 SV=1	1394
+tr|A0A8F0WA13|A0A8F0WA13_LAMGL Angiotensin-converting enzyme OS=Lama glama OX=9844 GN=ACE2 PE=2 SV=1	1394
+tr|A0A8C4KXW7|A0A8C4KXW7_EQUAS Angiotensin-converting enzyme OS=Equus asinus asinus OX=83772 GN=ACE2 PE=3 SV=1	1394
+tr|A0A7D5TP47|A0A7D5TP47_MANPE Angiotensin-converting enzyme OS=Manis pentadactyla OX=143292 GN=ACE2 PE=2 SV=1	1393
+tr|A0A6M4S156|A0A6M4S156_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 GN=ACE2 PE=2 SV=1	1393
+tr|A0A452TTE2|A0A452TTE2_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1393
+tr|A0A452TTF7|A0A452TTF7_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1392
+tr|A0A452TTE1|A0A452TTE1_URSMA Angiotensin-converting enzyme OS=Ursus maritimus OX=29073 GN=ACE2 PE=3 SV=1	1391
+tr|A0A6G1ARU3|A0A6G1ARU3_CROCR Angiotensin-converting enzyme (Fragment) OS=Crocuta crocuta OX=9678 GN=Ace2 PE=3 SV=1	1386
+tr|A0A6I9KY05|A0A6I9KY05_PERMB Angiotensin-converting enzyme OS=Peromyscus maniculatus bairdii OX=230844 GN=Ace2 PE=3 SV=1	1384
+tr|A0A8D1I7Y6|A0A8D1I7Y6_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1383
+tr|G1PXH7|G1PXH7_MYOLU Angiotensin-converting enzyme OS=Myotis lucifugus OX=59463 GN=ACE2 PE=3 SV=1	1383
+tr|A0A4X1UWQ8|A0A4X1UWQ8_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1382
+tr|A0A480ZG66|A0A480ZG66_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1382
+tr|A0A340Y3Y6|A0A340Y3Y6_LIPVE Angiotensin-converting enzyme OS=Lipotes vexillifer OX=118797 GN=ACE2 PE=3 SV=1	1379
+tr|A0A8D0JFQ5|A0A8D0JFQ5_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1379
+tr|A0A220QT48|A0A220QT48_PIG Angiotensin-converting enzyme OS=Sus scrofa domesticus OX=9825 GN=ACE2 PE=2 SV=1	1378
+tr|K7GLM4|K7GLM4_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 GN=ACE2 PE=1 SV=2	1378
+tr|A0A8D0TDK7|A0A8D0TDK7_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1378
+tr|A0A8B7WZF6|A0A8B7WZF6_MICMU Angiotensin-converting enzyme OS=Microcebus murinus OX=30608 GN=ACE2 PE=3 SV=1	1378
+tr|A0A8D1UYE4|A0A8D1UYE4_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=3 SV=1	1377
+tr|A0A8C6FDA8|A0A8C6FDA8_MONMO Angiotensin-converting enzyme OS=Monodon monoceros OX=40151 GN=ACE2 PE=3 SV=1	1376
+tr|A0A2Y9E393|A0A2Y9E393_TRIMA Angiotensin-converting enzyme OS=Trichechus manatus latirostris OX=127582 GN=LOC101343545 PE=3 SV=1	1376
+tr|A0A7T0Q2W2|A0A7T0Q2W2_NEOVI Angiotensin-converting enzyme OS=Neovison vison OX=452646 PE=1 SV=1	1376
+tr|A0A5N3V8Y4|A0A5N3V8Y4_MUNMU Angiotensin-converting enzyme OS=Muntiacus muntjak OX=9888 GN=FD754_022509 PE=3 SV=1	1375
+tr|A0A8C7BTF2|A0A8C7BTF2_NEOVI Angiotensin-converting enzyme OS=Neovison vison OX=452646 GN=ACE2 PE=3 SV=1	1374
+tr|A0A8B9XAU1|A0A8B9XAU1_BOSMU Angiotensin-converting enzyme OS=Bos mutus grunniens OX=30521 GN=ACE2 PE=3 SV=1	1373
+tr|L8I4I4|L8I4I4_9CETA Angiotensin-converting enzyme OS=Bos mutus OX=72004 GN=M91_17842 PE=3 SV=1	1373
+tr|A0A2Y9KLV0|A0A2Y9KLV0_ENHLU Angiotensin-converting enzyme OS=Enhydra lutris kenyoni OX=391180 GN=LOC111157129 PE=3 SV=1	1373
+tr|B0YLW5|B0YLW5_9CHIR Angiotensin-converting enzyme OS=Rhinolophus pearsonii OX=188571 PE=2 SV=1	1373
+tr|Q2PGE1|Q2PGE1_PROLO Angiotensin-converting enzyme OS=Procyon lotor OX=9654 GN=ACE2 PE=2 SV=1	1372
+tr|A0A2Y9M9H3|A0A2Y9M9H3_DELLE Angiotensin-converting enzyme OS=Delphinapterus leucas OX=9749 GN=ACE2 PE=3 SV=1	1372
+tr|W6CG84|W6CG84_CAPHI Angiotensin-converting enzyme OS=Capra hircus OX=9925 PE=2 SV=1	1372
+tr|A0A2U4AJL3|A0A2U4AJL3_TURTR Angiotensin-converting enzyme OS=Tursiops truncatus OX=9739 GN=ACE2 PE=3 SV=2	1372
+tr|A0A6P3TFC0|A0A6P3TFC0_SHEEP Angiotensin-converting enzyme OS=Ovis aries OX=9940 GN=JEQ12_019702 PE=3 SV=1	1372
+tr|A0A7D5FYI0|A0A7D5FYI0_MELMS Angiotensin-converting enzyme OS=Melogale moschata OX=204267 PE=2 SV=1	1371
+tr|A0A2Y9KS18|A0A2Y9KS18_ENHLU Angiotensin-converting enzyme OS=Enhydra lutris kenyoni OX=391180 GN=LOC111157129 PE=3 SV=1	1371
+tr|A0A8C5US41|A0A8C5US41_MICMU Angiotensin-converting enzyme OS=Microcebus murinus OX=30608 GN=ACE2 PE=3 SV=1	1371
+tr|A0A7G3TIB0|A0A7G3TIB0_9CHIR Angiotensin-converting enzyme OS=Rhinolophus pearsonii OX=188571 GN=ACE2 PE=3 SV=1	1370
+tr|A0A7G6KLV1|A0A7G6KLV1_MUSLU Angiotensin-converting enzyme OS=Mustela lutreola biedermanni OX=2759914 GN=ACE2 PE=3 SV=1	1370
+tr|A0A8C0SH78|A0A8C0SH78_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 GN=ACE2 PE=3 SV=1	1370
+tr|A0A8P0SVK9|A0A8P0SVK9_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 GN=ACE2 PE=3 SV=1	1370
+tr|A0A7D5FSR3|A0A7D5FSR3_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 PE=2 SV=1	1370
+tr|A0A452EVJ5|A0A452EVJ5_CAPHI Angiotensin-converting enzyme OS=Capra hircus OX=9925 GN=ACE2 PE=3 SV=1	1370
+tr|A0A6J2EID0|A0A6J2EID0_ZALCA Angiotensin-converting enzyme OS=Zalophus californianus OX=9704 GN=ACE2 PE=3 SV=1	1370
+tr|B1PZW5|B1PZW5_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 PE=2 SV=1	1370
+tr|A0A673UPR4|A0A673UPR4_SURSU Angiotensin-converting enzyme OS=Suricata suricatta OX=37032 PE=3 SV=1	1370
+tr|A0A8C6FQH7|A0A8C6FQH7_MOSMO Angiotensin-converting enzyme OS=Moschus moschiferus OX=68415 GN=ACE2 PE=3 SV=1	1369
+tr|A0A6P5P531|A0A6P5P531_MUSCR Angiotensin-converting enzyme OS=Mus caroli OX=10089 GN=Ace2 PE=3 SV=1	1369
+tr|Q2WG88|Q2WG88_MUSPF Angiotensin-converting enzyme OS=Mustela putorius furo OX=9669 GN=ACE2 PE=2 SV=1	1369
+tr|A0A7T0PYW5|A0A7T0PYW5_PHORO Angiotensin-converting enzyme OS=Phodopus roborovskii OX=109678 GN=ACE2 PE=2 SV=1	1369
+sp|Q58DD0|ACE2_BOVIN Angiotensin-converting enzyme 2 OS=Bos taurus OX=9913 GN=ACE2 PE=1 SV=1	1369
+tr|Q3URC9|Q3URC9_MOUSE Angiotensin-converting enzyme OS=Mus musculus OX=10090 GN=Ace2 PE=2 SV=1	1369
+sp|Q8R0I0|ACE2_MOUSE Angiotensin-converting enzyme 2 OS=Mus musculus OX=10090 GN=Ace2 PE=1 SV=1	1369
+tr|A0A4W2H3A1|A0A4W2H3A1_BOBOX Angiotensin-converting enzyme OS=Bos indicus x Bos taurus OX=30522 GN=ACE2 PE=3 SV=1	1368
+tr|C7ECV1|C7ECV1_MESAU Angiotensin-converting enzyme (Fragment) OS=Mesocricetus auratus OX=10036 PE=2 SV=1	1368
+tr|A0A8C9CHJ8|A0A8C9CHJ8_PHOSS Angiotensin-converting enzyme OS=Phocoena sinus OX=42100 GN=ACE2 PE=3 SV=1	1368
+tr|A0A341BCI8|A0A341BCI8_NEOAA Angiotensin-converting enzyme OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=ACE2 PE=3 SV=1	1368
+tr|B4XEP4|B4XEP4_NYCPR Angiotensin-converting enzyme OS=Nyctereutes procyonoides OX=34880 GN=ACE2 PE=2 SV=1	1368
+tr|A0A8C6RG46|A0A8C6RG46_NANGA Angiotensin-converting enzyme OS=Nannospalax galili OX=1026970 GN=Ace2 PE=3 SV=1	1368
+tr|W5PSB6|W5PSB6_SHEEP Angiotensin-converting enzyme OS=Ovis aries OX=9940 GN=ACE2 PE=3 SV=1	1367
+tr|Q2HJI5|Q2HJI5_BOVIN Angiotensin-converting enzyme OS=Bos taurus OX=9913 GN=ACE2 PE=2 SV=1	1367
+tr|A0A6P5BMB1|A0A6P5BMB1_BOSIN Angiotensin-converting enzyme OS=Bos indicus OX=9915 GN=ACE2 PE=3 SV=1	1367
+tr|A0A8C0JTU4|A0A8C0JTU4_CANLU Angiotensin-converting enzyme OS=Canis lupus dingo OX=286419 GN=ACE2 PE=3 SV=1	1367
+tr|A0A7G6KLV4|A0A7G6KLV4_MUSNG Angiotensin-converting enzyme (Fragment) OS=Mustela nigripes OX=77151 GN=ACE2 PE=3 SV=1	1365
+tr|A0A3Q7N3M7|A0A3Q7N3M7_CALUR Angiotensin-converting enzyme OS=Callorhinus ursinus OX=34884 GN=ACE2 PE=3 SV=1	1364
+tr|A0A7G6KLV7|A0A7G6KLV7_CHRBR Angiotensin-converting enzyme (Fragment) OS=Chrysocyon brachyurus OX=68728 PE=3 SV=1	1363
+tr|A0A3Q7RAT9|A0A3Q7RAT9_VULVU Angiotensin-converting enzyme OS=Vulpes vulpes OX=9627 GN=ACE2 PE=3 SV=1	1363
+tr|A0A7L7SCR4|A0A7L7SCR4_TUPGL Angiotensin-converting enzyme OS=Tupaia glis OX=9395 GN=ace2 PE=2 SV=1	1363
+tr|A0A4U1EPV5|A0A4U1EPV5_MONMO Angiotensin-converting enzyme (Fragment) OS=Monodon monoceros OX=40151 GN=EI555_015831 PE=3 SV=1	1362
+tr|A0A7G6KLV5|A0A7G6KLV5_SPEVE Angiotensin-converting enzyme (Fragment) OS=Speothos venaticus OX=68741 PE=3 SV=1	1362
+tr|C7ECU7|C7ECU7_PHOCM Angiotensin-converting enzyme OS=Phodopus campbelli OX=47665 PE=2 SV=1	1361
+tr|H0WMI5|H0WMI5_OTOGA Angiotensin-converting enzyme OS=Otolemur garnettii OX=30611 GN=ACE2 PE=3 SV=1	1360
+tr|A0A7T0LP11|A0A7T0LP11_PHOSU Angiotensin-converting enzyme OS=Phodopus sungorus OX=10044 GN=ACE2 PE=2 SV=1	1360
+tr|C7ECU5|C7ECU5_RAT Angiotensin-converting enzyme OS=Rattus norvegicus OX=10116 GN=Ace2 PE=2 SV=1	1360
+sp|Q5EGZ1|ACE2_RAT Angiotensin-converting enzyme 2 OS=Rattus norvegicus OX=10116 GN=Ace2 PE=1 SV=1	1360
+tr|A0A2Y9GEI9|A0A2Y9GEI9_NEOSC Angiotensin-converting enzyme OS=Neomonachus schauinslandi OX=29088 GN=ACE2 PE=3 SV=1	1360
+tr|E2DHI3|E2DHI3_RHIMR Angiotensin-converting enzyme OS=Rhinolophus macrotis OX=196889 GN=ACE2 PE=1 SV=1	1359
+tr|E2DHI7|E2DHI7_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1	1357
+tr|C7ECU9|C7ECU9_FELCA Angiotensin-converting enzyme (Fragment) OS=Felis catus OX=9685 PE=2 SV=1	1357
+tr|A0A7D5FWT7|A0A7D5FWT7_NYCPR Angiotensin-converting enzyme OS=Nyctereutes procyonoides OX=34880 PE=2 SV=1	1357
+tr|A0A0P0IB69|A0A0P0IB69_RHILA Angiotensin-converting enzyme OS=Rhinolophus landeri OX=519039 PE=3 SV=1	1356
+tr|A0A0N7IQX6|A0A0N7IQX6_RHIAY Angiotensin-converting enzyme OS=Rhinolophus alcyone OX=249024 PE=3 SV=1	1355
+tr|A0A6M3WQ58|A0A6M3WQ58_SYCAU Angiotensin-converting enzyme OS=Syconycteris australis OX=58085 GN=ACE2 PE=3 SV=1	1354
+tr|A0A6M3WQ56|A0A6M3WQ56_MYOTR Angiotensin-converting enzyme OS=Myotis tricolor OX=233765 GN=ACE2 PE=3 SV=1	1353
+tr|S7N573|S7N573_MYOBR Angiotensin-converting enzyme OS=Myotis brandtii OX=109478 GN=D623_10013274 PE=3 SV=1	1352
+tr|A0A6M3WQ49|A0A6M3WQ49_MYOKE Angiotensin-converting enzyme OS=Myotis keaysi OX=159327 GN=ACE2 PE=3 SV=1	1352
+tr|A0A6P3Q9K8|A0A6P3Q9K8_PTEVA Angiotensin-converting enzyme OS=Pteropus vampyrus OX=132908 GN=ACE2 PE=3 SV=1	1352
+tr|A0A7D5FU09|A0A7D5FU09_ARCCL Angiotensin-converting enzyme OS=Arctonyx collaris OX=139309 PE=2 SV=1	1352
+tr|E2DHI2|E2DHI2_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 GN=ACE2 PE=2 SV=1	1351
+tr|A0A671F9Q9|A0A671F9Q9_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 GN=ACE2 PE=3 SV=1	1351
+tr|A0A894K8M2|A0A894K8M2_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sp. PREDICT/PDF-2370 OX=2750743 GN=ACE2 PE=2 SV=1	1350
+tr|E2DHI4|E2DHI4_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1	1348
+tr|B6ZGN7|B6ZGN7_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 GN=ACE2 PE=2 SV=1	1348
+tr|A0A7J7YBR0|A0A7J7YBR0_MYOMY Angiotensin-converting enzyme OS=Myotis myotis OX=51298 GN=mMyoMyo1_000192 PE=3 SV=1	1348
+tr|A0A5E4ALA4|A0A5E4ALA4_MARMO Angiotensin-converting enzyme OS=Marmota monax OX=9995 GN=GHT09_003732 PE=3 SV=1	1348
+tr|A0A7R7AIC6|A0A7R7AIC6_9CHIR Angiotensin-converting enzyme OS=Rhinolophus cornutus OX=196296 GN=RcACE2 PE=2 SV=1	1347
+tr|A0A7D7FBD3|A0A7D7FBD3_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1346
+tr|A0A7D7IWN1|A0A7D7IWN1_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1345
+tr|A0A7D7J6S6|A0A7D7J6S6_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1345
+tr|A0A7D7IWP1|A0A7D7IWP1_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1345
+tr|A0A7D7FJV6|A0A7D7FJV6_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1345
+tr|A0A6M3WRY6|A0A6M3WRY6_MYORP Angiotensin-converting enzyme OS=Myotis riparius OX=124752 GN=ACE2 PE=3 SV=1	1345
+tr|A0A7D7FKM2|A0A7D7FKM2_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1344
+tr|A0A7D5FSR4|A0A7D5FSR4_TADBR Angiotensin-converting enzyme OS=Tadarida brasiliensis OX=9438 PE=2 SV=1	1344
+tr|A0A7D7J2B9|A0A7D7J2B9_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1343
+tr|G3T6Q2|G3T6Q2_LOXAF Angiotensin-converting enzyme OS=Loxodonta africana OX=9785 GN=ACE2 PE=3 SV=1	1343
+tr|A0A7D7JDA7|A0A7D7JDA7_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1343
+tr|A0A7D7FA57|A0A7D7FA57_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1343
+tr|A0A7D7FEL9|A0A7D7FEL9_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1342
+tr|A0A8E4JA92|A0A8E4JA92_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1342
+tr|A0A6M3WQ40|A0A6M3WQ40_EPTBR Angiotensin-converting enzyme OS=Eptesicus brasiliensis OX=177183 GN=ACE2 PE=3 SV=1	1342
+tr|A0A7D7FA76|A0A7D7FA76_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1342
+tr|A0A7D7FTN8|A0A7D7FTN8_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1342
+tr|A0A7D7FKN4|A0A7D7FKN4_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1341
+tr|U5WHY8|U5WHY8_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1	1341
+tr|A0A7D7JS26|A0A7D7JS26_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1341
+tr|A0A7D7FDF0|A0A7D7FDF0_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1341
+tr|A0A7D7FD45|A0A7D7FD45_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1341
+tr|A0A7G3TF89|A0A7G3TF89_CYNSP Angiotensin-converting enzyme OS=Cynopterus sphinx OX=9400 GN=ACE2 PE=3 SV=1	1340
+tr|E2DHI9|E2DHI9_RHIPS Angiotensin-converting enzyme OS=Rhinolophus pusillus OX=159858 GN=ACE2 PE=2 SV=1	1340
+tr|A0A6M3WQ96|A0A6M3WQ96_AEOCI Angiotensin-converting enzyme (Fragment) OS=Aeorestes cinereus OX=257879 GN=ACE2 PE=3 SV=1	1339
+tr|A0A7D7JS29|A0A7D7JS29_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1339
+tr|A0A7D7JDB4|A0A7D7JDB4_RHIAI Angiotensin-converting enzyme OS=Rhinolophus affinis OX=59477 PE=2 SV=1	1339
+tr|A0A7J7YD33|A0A7J7YD33_MYOMY Angiotensin-converting enzyme OS=Myotis myotis OX=51298 GN=mMyoMyo1_000192 PE=3 SV=1	1339
+tr|B9VS92|B9VS92_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 PE=2 SV=1	1339
+tr|A0A8B7TB79|A0A8B7TB79_HIPAR Angiotensin-converting enzyme OS=Hipposideros armiger OX=186990 GN=ACE2 PE=3 SV=1	1338
+tr|A0A7D7JF16|A0A7D7JF16_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1338
+tr|A0A7D7FBF1|A0A7D7FBF1_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1338
+tr|A0A8K1H5K5|A0A8K1H5K5_9CHIR Angiotensin-converting enzyme OS=Rhinolophus shameli OX=608708 GN=ACE2 PE=2 SV=1	1337
+tr|A0A7D7FDE3|A0A7D7FDE3_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1337
+tr|A4PIG8|A4PIG8_ROULE Angiotensin-converting enzyme OS=Rousettus leschenaultii OX=9408 GN=ACE2 PE=2 SV=1	1337
+tr|A0A7J8EHI0|A0A7J8EHI0_ROUAE Angiotensin-converting enzyme OS=Rousettus aegyptiacus OX=9407 GN=HJG63_000186 PE=3 SV=1	1337
+tr|C7ECU8|C7ECU8_RHISN Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 PE=2 SV=1	1337
+tr|A0A7G3THS3|A0A7G3THS3_9CHIR Angiotensin-converting enzyme OS=Hipposideros pratti OX=188569 GN=ACE2 PE=3 SV=1	1336
+tr|D8WU01|D8WU01_ROULE Angiotensin-converting enzyme OS=Rousettus leschenaultii OX=9408 GN=ACE2 PE=2 SV=1	1336
+tr|A0A6M3WQA1|A0A6M3WQA1_KERPE Angiotensin-converting enzyme OS=Kerivoula pellucida OX=258925 GN=ACE2 PE=3 SV=1	1335
+tr|C7ECV0|C7ECV0_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 PE=2 SV=1	1335
+tr|K9INV8|K9INV8_DESRO Angiotensin-converting enzyme OS=Desmodus rotundus OX=9430 PE=2 SV=1	1332
+tr|A0A2K5JE65|A0A2K5JE65_COLAP Angiotensin-converting enzyme OS=Colobus angolensis palliatus OX=336983 PE=3 SV=1	1332
+tr|A0A7J8J4B7|A0A7J8J4B7_MOLMO Angiotensin-converting enzyme OS=Molossus molossus OX=27622 GN=HJG59_000188 PE=3 SV=1	1332
+tr|C7ECT8|C7ECT8_PIG Angiotensin-converting enzyme (Fragment) OS=Sus scrofa domesticus OX=9825 PE=2 SV=1	1331
+tr|A0A6M3WQ11|A0A6M3WQ11_ANTPA Angiotensin-converting enzyme OS=Antrozous pallidus OX=9440 GN=ACE2 PE=3 SV=1	1327
+tr|A0A8C9K4W5|A0A8C9K4W5_PANTA Angiotensin-converting enzyme OS=Panthera tigris altaica OX=74533 GN=ACE2 PE=3 SV=1	1327
+tr|A0A8F0WA03|A0A8F0WA03_STULI Angiotensin-converting enzyme OS=Sturnira lilium OX=27660 GN=ACE2 PE=2 SV=1	1326
+tr|A0A6M3WQP3|A0A6M3WQP3_9CHIR Angiotensin-converting enzyme OS=Taphozous theobaldi OX=2029311 GN=ACE2 PE=3 SV=1	1326
+tr|A0A8W4FA96|A0A8W4FA96_PIG Angiotensin-converting enzyme OS=Sus scrofa OX=9823 GN=ACE2 PE=1 SV=1	1326
+tr|A0A6M3WQA7|A0A6M3WQA7_PTELY Angiotensin-converting enzyme OS=Pteropus lylei OX=166054 GN=ACE2 PE=3 SV=1	1325
+tr|A0A6M3WQ36|A0A6M3WQ36_SCODI Angiotensin-converting enzyme OS=Scotophilus dinganii OX=258952 GN=ACE2 PE=3 SV=1	1325
+tr|A0A6J1Z0N6|A0A6J1Z0N6_ACIJB Angiotensin-converting enzyme OS=Acinonyx jubatus OX=32536 GN=ACE2 PE=3 SV=1	1324
+tr|A0A6M3WQB8|A0A6M3WQB8_DOBVI Angiotensin-converting enzyme OS=Dobsonia viridis OX=170218 GN=ACE2 PE=3 SV=1	1323
+tr|A0A8B9XEK0|A0A8B9XEK0_BOSMU Angiotensin-converting enzyme OS=Bos mutus grunniens OX=30521 GN=ACE2 PE=3 SV=1	1318
+tr|A0A834DRW8|A0A834DRW8_9CHIR Angiotensin-converting enzyme OS=Phyllostomus discolor OX=89673 GN=HJG60_000185 PE=3 SV=1	1317
+tr|A0A4W2H6E0|A0A4W2H6E0_BOBOX Angiotensin-converting enzyme OS=Bos indicus x Bos taurus OX=30522 GN=ACE2 PE=3 SV=1	1316
+tr|A0A6P5BMB2|A0A6P5BMB2_BOSIN Angiotensin-converting enzyme OS=Bos indicus OX=9915 GN=ACE2 PE=3 SV=1	1315
+tr|C7ECU2|C7ECU2_MOUSE Angiotensin-converting enzyme (Fragment) OS=Mus musculus OX=10090 GN=Ace2 PE=2 SV=1	1314
+tr|A0A8C0SJM8|A0A8C0SJM8_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 GN=ACE2 PE=3 SV=1	1314
+tr|A0A8P0TB01|A0A8P0TB01_CANLF Angiotensin-converting enzyme OS=Canis lupus familiaris OX=9615 GN=ACE2 PE=3 SV=1	1314
+tr|A0A6M3WQL4|A0A6M3WQL4_SCOKU Angiotensin-converting enzyme OS=Scotophilus kuhlii OX=153297 GN=ACE2 PE=3 SV=1	1313
+tr|A0A7E6CZX5|A0A7E6CZX5_9CHIR Angiotensin-converting enzyme OS=Phyllostomus discolor OX=89673 GN=ACE2 PE=3 SV=1	1312
+tr|A0A6M3WQ79|A0A6M3WQ79_TAPME Angiotensin-converting enzyme OS=Taphozous melanopogon OX=187003 GN=ACE2 PE=3 SV=1	1311
+tr|A0A1S3APE5|A0A1S3APE5_ERIEU Angiotensin-converting enzyme OS=Erinaceus europaeus OX=9365 GN=ACE2 PE=3 SV=1	1308
+tr|A0A6M3WQB7|A0A6M3WQB7_EMBAL Angiotensin-converting enzyme OS=Emballonura alecto OX=187004 GN=ACE2 PE=3 SV=1	1307
+tr|A0A8B7ASS9|A0A8B7ASS9_ORYAF Angiotensin-converting enzyme OS=Orycteropus afer afer OX=1230840 GN=ACE2 PE=3 SV=1	1306
+tr|A0A6M3WQA8|A0A6M3WQA8_RHYNA Angiotensin-converting enzyme OS=Rhynchonycteris naso OX=249017 GN=ACE2 PE=3 SV=1	1302
+tr|A0A6B0SFL8|A0A6B0SFL8_9CETA Angiotensin-converting enzyme OS=Bos mutus OX=72004 GN=E5288_WYG005317 PE=3 SV=1	1301

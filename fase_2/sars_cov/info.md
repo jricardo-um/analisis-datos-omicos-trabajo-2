@@ -1,4 +1,4 @@
-# host protein sequence
+# Info
 
 Initial data sources:
 
@@ -11,37 +11,37 @@ TODO: align, compare and download needed groups individually.
 
 NOTE: Isoform 2 only found on infected cells, replaces first 356 residues with `MREAGWDKGG`. Therefore, it's probably in there where the virus spike protein binds.
 
-NCBI BlastP column reference
+# Log
+
+## [History 1](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega1)
+
+Use `blastp` human ACE2 against representative ACE2, filtered by `bitscore`>`1300`. Output column reference:
 
 | Column | NCBI name  | Description                                  |
 | ------ | ---------- | -------------------------------------------- |
-| 1      | qaccver    | Query accession dot version                  |
 | 2      | saccver    | Subject accession dot version (database hit) |
-| 3      | pident     | Percentage of identical matches              |
-| 4      | length     | Alignment length                             |
-| 5      | mismatch   | Number of mismatches                         |
-| 6      | gapopen    | Number of gap openings                       |
-| 7      | qstart     | Start of alignment in query                  |
-| 8      | qend       | End of alignment in query                    |
-| 9      | sstart     | Start of alignment in subject (database hit) |
-| 10     | send       | End of alignment in subject (database hit)   |
-| 11     | evalue     | Expectation value (E-value)                  |
 | 12     | bitscore   | Bit score                                    |
-| 13     | sallseqid  | All subject Seq-id(s), separated by a ';'    |
-| 14     | score      | Raw score                                    |
-| 15     | nident     | Number of identical matches                  |
-| 16     | positive   | Number of positive-scoring matches           |
-| 17     | gaps       | Total number of gaps                         |
-| 18     | ppos       | Percentage of positive-scoring matches       |
-| 19     | qframe     | Query frame                                  |
-| 20     | sframe     | Subject frame                                |
-| 21     | qseq       | Aligned part of query sequence               |
-| 22     | sseq       | Aligned part of subject sequence             |
-| 23     | qlen       | Query sequence length                        |
-| 24     | slen       | Subject sequence length                      |
 | 25     | salltitles | All subject title(s), separated by a '<>'    |
 
-> Search for evidence
+Afterwards, all cluster members from the cluster are downloaded to a file via a python script:
+
+```bash
+./download_cluster_members.py \
+ table='./Galaxy6-[Q9BYF1_c50_i90_blastp_filter].tabular' \
+ index=0 \
+ fasta='./Q9BYF1_members.fasta' \
+ uniprot_only
+```
+
+The process is repeated with the new database and the species are searched for evidence. To group the results, the following python script is used:
+
+```bash
+./group_by_species.py \
+ table='./Galaxy11-[Q9BYF1_members_blastp_filter].tabular' \
+ tsv=./FINAL.tsv
+```
+
+## Search for evidence
 
 | Species    | Sars-CoV | Sars-CoV-2 |
 | ---------- | -------- | ---------- |
@@ -85,4 +85,8 @@ Info from:
 
 - 
 
-Interesting: [Receptor recognition and cross-species infections of SARS coronavirus - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166354213002222?via%3Dihub)
+Interesting:
+
+- [Receptor recognition and cross-species infections of SARS coronavirus - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166354213002222?via%3Dihub)
+
+# EOF

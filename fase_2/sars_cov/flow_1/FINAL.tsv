@@ -1,0 +1,192 @@
+	uniprot	species	taxid	name	score
+0	A0A6J1YZV2	Acinonyx jubatus	32536	ACE2	1420
+0	A0A6J1Z0N6	Acinonyx jubatus	32536	ACE2	1324
+0	A0A6M3WQ96	Aeorestes cinereus	257879	ACE2	1339
+0	A0A6M3WQ11	Antrozous pallidus	9440	ACE2	1327
+0	A0A2K5DQI6	Aotus nancymaae	37293	ACE2	1529
+0	A0A452CBT6	Balaenoptera acutorostrata scammoni	310752	ACE2	1412
+0	A0A8B8WGR5	Balaenoptera musculus	9771	ACE2	1407
+0	A0A6P5BMB1	Bos indicus	9915	ACE2	1367
+0	A0A6P5BMB2	Bos indicus	9915	ACE2	1315
+0	A0A4W2H3A1	Bos indicus x Bos taurus	30522	ACE2	1368
+0	A0A4W2H6E0	Bos indicus x Bos taurus	30522	ACE2	1316
+0	A0A8B9XAU1	Bos mutus grunniens	30521	ACE2	1373
+0	A0A8B9XEK0	Bos mutus grunniens	30521	ACE2	1318
+0	Q58DD0	Bos taurus	9913	ACE2	1369
+0	Q2HJI5	Bos taurus	9913	ACE2	1367
+0	F7CNJ6	Callithrix jacchus	9483	ACE2	1521
+0	A0A5F4W5D9	Callithrix jacchus	9483	ACE2	1501
+0	A0A3Q7N3M7	Callorhinus ursinus	34884	ACE2	1364
+0	A0A8B6YNL4	Camelus ferus	419612	ACE2	1417
+0	A0A8C0JTU4	Canis lupus dingo	286419	ACE2	1367
+0	A0A6M4S156	Canis lupus familiaris	9615	ACE2	1393
+0	A0A8C0SH78	Canis lupus familiaris	9615	ACE2	1370
+0	A0A8P0SVK9	Canis lupus familiaris	9615	ACE2	1370
+0	A0A8C0SJM8	Canis lupus familiaris	9615	ACE2	1314
+0	A0A8P0TB01	Canis lupus familiaris	9615	ACE2	1314
+0	A0A452EVJ5	Capra hircus	9925	ACE2	1370
+0	A0A1U7TY97	Carlito syrichta	1868482	ACE2	1412
+0	A0A8C3WSW9	Catagonus wagneri	51154	ACE2	1412
+0	A0A2K5PYM0	Cebus imitator	2715852	ACE2	1523
+0	A0A2K5KSD8	Cercocebus atys	9531	ACE2	1592
+0	A0A8C2UPB0	Chinchilla lanigera	34839	Ace2	1451
+0	Q1LZX8	Chlorocebus aethiops	9534	ACE2	1580
+0	A0A0D9RQZ0	Chlorocebus sabaeus	60711	ACE2	1584
+0	A0A8C2L9R7	Cricetulus griseus	10029	Ace2	1396
+0	A0A6G1ARU3	Crocuta crocuta	9678	Ace2	1386
+0	A0A7G3TF89	Cynopterus sphinx	9400	ACE2	1340
+0	A0A2Y9M9H3	Delphinapterus leucas	9749	ACE2	1372
+0	A0A1S3GHT7	Dipodomys ordii	10020	Ace2	1394
+0	A0A6M3WQB8	Dobsonia viridis	170218	ACE2	1323
+0	A0A6M3WQB7	Emballonura alecto	187004	ACE2	1307
+0	A0A6M3WQ40	Eptesicus brasiliensis	177183	ACE2	1342
+0	A0A8C4KQS2	Equus asinus asinus	83772	ACE2	1439
+0	A0A8C4KXW7	Equus asinus asinus	83772	ACE2	1394
+0	F6V9L3	Equus caballus	9796	ACE2	1438
+0	A0A1S3APE5	Erinaceus europaeus	9365	ACE2	1308
+0	Q56H28	Felis catus	9685	ACE2	1420
+0	A0A5F5XDN9	Felis catus	9685	ACE2	1416
+0	A0A6M4RU53	Felis catus	9685	ACE2	1415
+0	G3QWX4	Gorilla gorilla gorilla	9595	ACE2	1671
+0	A0A0N8EUX7	Heterocephalus glaber	10181	ACE2	1441
+0	A0A8B7TB79	Hipposideros armiger	186990	ACE2	1338
+0	A0A7G3THS3	Hipposideros pratti	188569	ACE2	1336
+0	Q9BYF1	Homo sapiens	9606	ACE2	1685
+0	A0A8S0M502	Homo sapiens	9606	ACE2	1684
+0	A0A7I2V3X6	Homo sapiens	9606	ACE2	1614
+0	A0A7I2V2E9	Homo sapiens	9606	ACE2	1612
+0	A0A7I2V3N4	Homo sapiens	9606	ACE2	1612
+0	A0A7I2V4H0	Homo sapiens	9606	ACE2	1611
+0	I3M887	Ictidomys tridecemlineatus	43179	ACE2	1455
+0	A0A8C5JWR5	Jaculus jaculus	51337	Ace2	1412
+0	A0A6M3WQA1	Kerivoula pellucida	258925	ACE2	1335
+0	A0A8F0WA13	Lama glama	9844	ACE2	1394
+0	A0A340Y3Y6	Lipotes vexillifer	118797	ACE2	1379
+0	G3T6Q2	Loxodonta africana	9785	ACE2	1343
+0	A0A667IF49	Lynx canadensis	61383	ACE2	1402
+0	A0A2K5X283	Macaca fascicularis	9541	ACE2	1594
+0	B6DUE7	Macaca mulatta	9544	ACE2	1596
+0	B6DUE3	Macaca mulatta	9544	ACE2	1595
+0	B6DUE5	Macaca mulatta	9544	ACE2	1595
+0	B6DUE9	Macaca mulatta	9544	ACE2	1594
+0	F7AH40	Macaca mulatta	9544	ACE2	1594
+0	B6DUF3	Macaca mulatta	9544	ACE2	1594
+0	B6DUF1	Macaca mulatta	9544	ACE2	1594
+0	B6DUE1	Macaca mulatta	9544	ACE2	1592
+0	B6DUE8	Macaca mulatta	9544	ACE2	1592
+0	B6DUE2	Macaca mulatta	9544	ACE2	1592
+0	B6DUF2	Macaca mulatta	9544	ACE2	1592
+0	B6DUG2	Macaca mulatta	9544	ACE2	1591
+0	B6DUF5	Macaca mulatta	9544	ACE2	1590
+0	B6DUF7	Macaca mulatta	9544	ACE2	1590
+0	B6DUG5	Macaca mulatta	9544	ACE2	1590
+0	B6DUG6	Macaca mulatta	9544	ACE2	1588
+0	B6DUF8	Macaca mulatta	9544	ACE2	1588
+0	B6DUF9	Macaca mulatta	9544	ACE2	1588
+0	B6DUE4	Macaca mulatta	9544	ACE2	1588
+0	B6DUG0	Macaca mulatta	9544	ACE2	1588
+0	B6DUE6	Macaca mulatta	9544	ACE2	1587
+0	B6DUF6	Macaca mulatta	9544	ACE2	1584
+0	A0A2K6D1N8	Macaca nemestrina	9545	ACE2	1596
+0	A0A2K5ZV99	Mandrillus leucophaeus	9568	ACE2	1587
+0	A0A7D5TP47	Manis pentadactyla	143292	ACE2	1393
+0	A0A8C5YX98	Marmota marmota marmota	9994	ACE2	1446
+0	A0A7G3TF51	Megaderma lyra	9413	ACE2	1401
+0	A0A8D6HM88	Meriones unguiculatus	10047	ACE2	1408
+0	A0A1U7QTA1	Mesocricetus auratus	10036	Ace2	1398
+0	A0A8B7WZF6	Microcebus murinus	30608	ACE2	1378
+0	A0A8C5US41	Microcebus murinus	30608	ACE2	1371
+0	A0A8C6FDA8	Monodon monoceros	40151	ACE2	1376
+0	A0A8C6FQH7	Moschus moschiferus	68415	ACE2	1369
+0	A0A6P5P531	Mus caroli	10089	Ace2	1369
+0	Q3URC9	Mus musculus	10090	Ace2	1369
+0	Q8R0I0	Mus musculus	10090	Ace2	1369
+0	C7ECU2	Mus musculus	10090	Ace2	1314
+0	A0A7G6KLV1	Mustela lutreola biedermanni	2759914	ACE2	1370
+0	A0A7G6KLV4	Mustela nigripes	77151	ACE2	1365
+0	Q2WG88	Mustela putorius furo	9669	ACE2	1369
+0	A0A6M3WQ49	Myotis keaysi	159327	ACE2	1352
+0	G1PXH7	Myotis lucifugus	59463	ACE2	1383
+0	A0A6M3WRY6	Myotis riparius	124752	ACE2	1345
+0	A0A6M3WQ56	Myotis tricolor	233765	ACE2	1353
+0	A0A8C6RG46	Nannospalax galili	1026970	Ace2	1368
+0	A0A2Y9GEI9	Neomonachus schauinslandi	29088	ACE2	1360
+0	A0A341BCI8	Neophocaena asiaeorientalis asiaeorientalis	1706337	ACE2	1368
+0	A0A8C7BTF2	Neovison vison	452646	ACE2	1374
+0	G1RE79	Nomascus leucogenys	61853	ACE2	1651
+0	B4XEP4	Nyctereutes procyonoides	34880	ACE2	1368
+0	A0A6P6ESQ8	Octodon degus	10160	Ace2	1417
+0	A0A8B7ASS9	Orycteropus afer afer	1230840	ACE2	1306
+0	G1TEF4	Oryctolagus cuniculus	9986	ACE2	1449
+0	A0A6C0PIH2	Oryctolagus cuniculus	9986	ACE2	1440
+0	H0WMI5	Otolemur garnettii	30611	ACE2	1360
+0	W5PSB6	Ovis aries	9940	ACE2	1367
+0	Q56NL1	Paguma larvata	9675	ACE2	1428
+0	A0A2R9BKD8	Pan paniscus	9597	ACE2	1669
+0	A0A2J8KU96	Pan troglodytes	9598	ACE2	1670
+0	A0A8C8Y6V3	Panthera leo	9689	ACE2	1421
+0	A0A6P4TH77	Panthera pardus	9691	ACE2	1422
+0	A0A8C9K4W5	Panthera tigris altaica	74533	ACE2	1327
+0	A0A096N4X9	Papio anubis	9555	ACE2	1597
+0	A0A6I9KY05	Peromyscus maniculatus bairdii	230844	Ace2	1384
+0	A0A8C9CHJ8	Phocoena sinus	42100	ACE2	1368
+0	A0A7T0PYW5	Phodopus roborovskii	109678	ACE2	1369
+0	A0A7T0LP11	Phodopus sungorus	10044	ACE2	1360
+0	A0A7E6CZX5	Phyllostomus discolor	89673	ACE2	1312
+0	A0A2Y9S5T9	Physeter macrocephalus	9755	ACE2	1394
+0	A0A8C9GER2	Piliocolobus tephrosceles	591936	ACE2	1615
+0	A0A2J8W4D8	Pongo abelii	9601	ACE2	1660
+0	Q5RFN1	Pongo abelii	9601	ACE2	1657
+0	Q2PGE1	Procyon lotor	9654	ACE2	1372
+0	A0A8C8YW84	Prolemur simus	1328070	ACE2	1431
+0	A0A2K6GHW5	Propithecus coquereli	379532	ACE2	1447
+0	A0A6M3WQA7	Pteropus lylei	166054	ACE2	1325
+0	A0A6P3Q9K8	Pteropus vampyrus	132908	ACE2	1352
+0	A0A6P6IQM4	Puma concolor	9696	ACE2	1425
+0	C7ECU5	Rattus norvegicus	10116	Ace2	1360
+0	Q5EGZ1	Rattus norvegicus	10116	Ace2	1360
+0	E2DHI2	Rhinolophus ferrumequinum	59479	ACE2	1351
+0	A0A671F9Q9	Rhinolophus ferrumequinum	59479	ACE2	1351
+0	B6ZGN7	Rhinolophus ferrumequinum	59479	ACE2	1348
+0	E2DHI3	Rhinolophus macrotis	196889	ACE2	1359
+0	A0A7G3TIB0	Rhinolophus pearsonii	188571	ACE2	1370
+0	E2DHI9	Rhinolophus pusillus	159858	ACE2	1340
+0	A0A8K1H5K5	Rhinolophus shameli	608708	ACE2	1337
+0	E2DHI7	Rhinolophus sinicus	89399	ACE2	1357
+0	E2DHI4	Rhinolophus sinicus	89399	ACE2	1348
+0	U5WHY8	Rhinolophus sinicus	89399	ACE2	1341
+0	A0A894K8M2	Rhinolophus sp. PREDICT/PDF-2370	2750743	ACE2	1350
+0	A0A2K6LKA0	Rhinopithecus bieti	61621	ACE2	1495
+0	A0A2K6NFG7	Rhinopithecus roxellana	61622	ACE2	1600
+0	A0A6M3WQA8	Rhynchonycteris naso	249017	ACE2	1302
+0	A4PIG8	Rousettus leschenaultii	9408	ACE2	1337
+0	D8WU01	Rousettus leschenaultii	9408	ACE2	1336
+0	A0A2K6SBD4	Saimiri boliviensis boliviensis	39432	ACE2	1563
+0	A0A6J3II99	Sapajus apella	9515	ACE2	1537
+0	A0A8D2JNG0	Sciurus vulgaris	55149	ACE2	1476
+0	A0A6M3WQ36	Scotophilus dinganii	258952	ACE2	1325
+0	A0A6M3WQL4	Scotophilus kuhlii	153297	ACE2	1313
+0	A0A8F0WA03	Sturnira lilium	27660	ACE2	1326
+0	K7GLM4	Sus scrofa	9823	ACE2	1378
+0	A0A8W4FA96	Sus scrofa	9823	ACE2	1326
+0	A0A220QT48	Sus scrofa domesticus	9825	ACE2	1378
+0	A0A6M3WQ58	Syconycteris australis	58085	ACE2	1354
+0	A0A6M3WQ79	Taphozous melanopogon	187003	ACE2	1311
+0	A0A6M3WQP3	Taphozous theobaldi	2029311	ACE2	1326
+0	A0A8D2FGX9	Theropithecus gelada	9565	ACE2	1597
+0	A0A7L7SCR4	Tupaia glis	9395	ace2	1363
+0	A0A2U4AJL3	Tursiops truncatus	9739	ACE2	1372
+0	A0A8D2KIZ1	Urocitellus parryii	9999	ACE2	1448
+0	A0A452R1Z9	Ursus americanus	9643	ACE2	1420
+0	A0A384CIJ9	Ursus maritimus	29073	ACE2	1420
+0	A0A452TT60	Ursus maritimus	29073	ACE2	1413
+0	A0A452TT30	Ursus maritimus	29073	ACE2	1412
+0	A0A452TT98	Ursus maritimus	29073	ACE2	1411
+0	A0A452TTD2	Ursus maritimus	29073	ACE2	1410
+0	A0A452TT37	Ursus maritimus	29073	ACE2	1410
+0	A0A452TTE2	Ursus maritimus	29073	ACE2	1393
+0	A0A452TTF7	Ursus maritimus	29073	ACE2	1392
+0	A0A452TTE1	Ursus maritimus	29073	ACE2	1391
+0	A0A6I9IHT2	Vicugna pacos	30538	ACE2	1412
+0	A0A3Q7RAT9	Vulpes vulpes	9627	ACE2	1363
+0	A0A6J2EID0	Zalophus californianus	9704	ACE2	1370
