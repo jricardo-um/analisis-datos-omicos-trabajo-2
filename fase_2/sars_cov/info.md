@@ -4,12 +4,42 @@ Initial data sources:
 
 - [uniprotkb/Q9BYF1](https://www.uniprot.org/uniprotkb/Q9BYF1/entry) downloaded sequence as [Q9BYF1.fasta](./Q9BYF1.fasta).
 - [uniref/50_Q9BYF1](https://www.uniprot.org/uniref/UniRef50_Q9BYF1)
-  - [clusters with 90% identity](https://www.uniprot.org/uniref?query=%28cluster:UniRef50_Q9BYF1%29%20AND%20%28identity:0.9%29) downloaded representatives as [c50_i90_Q9BYF1.fasta](./c50_i90_Q9BYF1.fasta).
+  - [clusters with 90% identity](https://www.uniprot.org/uniref?query=%28cluster:UniRef50_Q9BYF1%29%20AND%20%28identity:0.9%29) downloaded representatives as [Q9BYF1_c50_i90.fasta](./Q9BYF1_c50_i90.fasta).
   - each cluster's sequences downloaded if needed
 
 TODO: align, compare and download needed groups individually.
 
 NOTE: Isoform 2 only found on infected cells, replaces first 356 residues with `MREAGWDKGG`. Therefore, it's probably in there where the virus spike protein binds.
+
+NCBI BlastP column reference
+
+| Column | NCBI name  | Description                                  |
+| ------ | ---------- | -------------------------------------------- |
+| 1      | qaccver    | Query accession dot version                  |
+| 2      | saccver    | Subject accession dot version (database hit) |
+| 3      | pident     | Percentage of identical matches              |
+| 4      | length     | Alignment length                             |
+| 5      | mismatch   | Number of mismatches                         |
+| 6      | gapopen    | Number of gap openings                       |
+| 7      | qstart     | Start of alignment in query                  |
+| 8      | qend       | End of alignment in query                    |
+| 9      | sstart     | Start of alignment in subject (database hit) |
+| 10     | send       | End of alignment in subject (database hit)   |
+| 11     | evalue     | Expectation value (E-value)                  |
+| 12     | bitscore   | Bit score                                    |
+| 13     | sallseqid  | All subject Seq-id(s), separated by a ';'    |
+| 14     | score      | Raw score                                    |
+| 15     | nident     | Number of identical matches                  |
+| 16     | positive   | Number of positive-scoring matches           |
+| 17     | gaps       | Total number of gaps                         |
+| 18     | ppos       | Percentage of positive-scoring matches       |
+| 19     | qframe     | Query frame                                  |
+| 20     | sframe     | Subject frame                                |
+| 21     | qseq       | Aligned part of query sequence               |
+| 22     | sseq       | Aligned part of subject sequence             |
+| 23     | qlen       | Query sequence length                        |
+| 24     | slen       | Subject sequence length                      |
+| 25     | salltitles | All subject title(s), separated by a '<>'    |
 
 > Search for evidence
 
