@@ -7,8 +7,8 @@ By R. Urdiales Muñoz, M. A. Grela Hernandez, J. R. Alonso Fernandez.
 With the worldwide spread of SARS-CoV-2 the concern about natural reservoirs of virus has increased. On this proposal, we will take a look on the use of omic data analysis on identifying potential species which could act as a reservoir for viruses. Proposed viruses:
 
 ```
-Virus:         Sars-CoV       MERS-CoV       Measles        
-Protein:       ACE2           DDP4 (CD26)    SLAM (CD150)   
+Virus:         Sars-CoV       MERS-CoV       H-Cov-229E        
+Protein:       ACE2           DDP4 (CD26)    h(APN)   
 ```
 
 ## Analysis Proposal
