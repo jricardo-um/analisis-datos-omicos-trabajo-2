@@ -4,6 +4,7 @@
 
 Sequence downloaded to [P27487.fasta](./P27487.fasta).
 
+Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
 
 Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_similar.fasta)
 
