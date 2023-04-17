@@ -29,7 +29,7 @@ In this search we have found different types of animal species:
 | Saimiri boliviensis   | No     | \~                                                                                                  |
 | Aotus nancymaae       | No     | \~                                                                                                  |
 | Cercocebus atys       | No     | \~                                                                                                  |
-| Callithrix jacchus    | No     | \~                                                                                                  |
+| Callithrix jacchus    | No     | https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004250#s2                  |
 | Pan troglodytes       | No     | \~                                                                                                  |
 | Gorilla gorilla       | No     | \~                                                                                                  |
 | Pan paniscus          | No     | \~                                                                                                  |
@@ -49,4 +49,6 @@ In this search we have found different types of animal species:
 |                       |        |                                                                                                     |
 MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
 
+A number of animal species have been assessed to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters, and mice, but found to be nonsusceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse but is conserved in humans and nonhuman primates making nonhuman primates an ideal model of infection. The DPP4 receptor from a small nonhuman primate like rhesus macaque and callithrix jacchus
 
+Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
