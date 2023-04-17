@@ -8,6 +8,12 @@ Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
 
 Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_similar.fasta)
 
+MERS-CoV (Middle East Respiratory Syndrome Coronavirus) is a beta coronavirus that causes severe respiratory illnesses in humans. It is believed to have originated in animals, possibly camels, and is primarily transmitted to humans through contact with infected animals or their respiratory secretions. It can also spread among people through close contact, such as caring for infected patients.
+
+MERS-CoV can cause a wide range of respiratory symptoms, ranging from mild cold-like symptoms to severe pneumonia with respiratory failure, and in some cases, death. Patients with chronic illnesses or weakened immune systems are at higher risk for severe complications.
+
+Pathological studies in animals infected with MERS-CoV have shown changes in the lungs, such as thickening of alveolar septa, infiltration of inflammatory cells such as lymphocytes and histiocytes, and presence of exudates in alveolar and bronchial spaces. These pathological changes can vary from acute lesions in the early days of infection to chronic or reparative lesions in later stages.
+
 We have a file with the sequence DPP4, dipeptidyl peptidase-4, or also called CD26 is an enzyme found on the surface of many cells in the human body and plays an important role in the regulation of metabolic function and the immune system. DPP4 is a protein that belongs to the family of peptidase enzymes, which are responsible for the hydrolysis of peptides and proteins in the body.
 The study of this protein is related to the way it attacks the Mers-CoV virus, as the MERS-CoV Spike protein is found on the surface of the Middle East respiratory syndrome virus (MERS-CoV), which is a type of coronavirus that causes severe respiratory disease in humans. This Spike protein is responsible for the entry of the virus into human cells during infection.
 
@@ -20,7 +26,7 @@ In this section we will try to discover possible reservoirs of this virus from t
 
 For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastn tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
-In this search we have found different types of animal species:
+We have found different types of animal species:
 
 | Species               | Result | Paper                                                                                               |
 | --------------------- | ------ | --------------------------------------------------------------------------------------------------- |
@@ -46,9 +52,11 @@ In this search we have found different types of animal species:
 | Mus musculus          | No     | https://pubmed.ncbi.nlm.nih.gov/24197535/                                                           |
 |                       |        |                                                                                                     |
 |                       |        |                                                                                                     |
-|                       |        |                                                                                                     |
+
 MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
 
 A number of animal species have been assessed to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters, and mice, but found to be nonsusceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse but is conserved in humans and nonhuman primates making nonhuman primates an ideal model of infection. The DPP4 receptor from a small nonhuman primate like rhesus macaque and callithrix jacchus
 
 Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
+
+
