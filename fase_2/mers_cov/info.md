@@ -22,28 +22,31 @@ For this, we will use the sequence of the DPP4 protein present in Homo sapiens. 
 
 In this search we have found different types of animal species:
 
-| Species               | Result | Paper                                                                               |
-| --------------------- | ------ | ----------------------------------------------------------------------------------- |
-| Chlorocebus aethiops  | Yes    | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706928/                               |
-| Rhesus macaque        | Yes    | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107340/                               | 
-| Saimiri boliviensis   | Yes    | \~                                                                                  |
-| Aotus nancymaae       | Yes    | \~                                                                                  |
-| Cercocebus atys       | Yes    | \~                                                                                  |
-| Callithrix jacchus    | Yes    | \~                                                                                  |
-| Pan troglodytes       | Yes    | \~                                                                                  |
-| Gorilla gorilla       | Yes    | \~                                                                                  |
-| Pan paniscus          | Yes    | \~                                                                                  |
-| Pongo abelii          | Yes    | \~                                                                                  |
-| Canis lupus familiaris| No     | https://www.mdpi.com/2076-2615/13/4/624                                             |
-| Camelus dromedarius   | Yes    | https://www.sciencedirect.com/science/article/abs/pii/S2213260014701584?via%3Dihub  |
-| Ovis orientalis       | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Bos taurus indicus    | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Capra aegagrus hircus | Yes    | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662       |
-| Rousettus aegyptiacus | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article                             |
-|                       |        |                                                                                     |
-|                       |        |                                                                                     |
-|                       |        |                                                                                     |
-
+| Species               | Result | Paper                                                                                               |
+| --------------------- | ------ | --------------------------------------------------------------------------------------------------- |
+| Chlorocebus aethiops  | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706928/                                               |
+| Rhesus macaque        | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107340/                                               | 
+| Saimiri boliviensis   | No     | \~                                                                                                  |
+| Aotus nancymaae       | No     | \~                                                                                                  |
+| Cercocebus atys       | No     | \~                                                                                                  |
+| Callithrix jacchus    | No     | \~                                                                                                  |
+| Pan troglodytes       | No     | \~                                                                                                  |
+| Gorilla gorilla       | No     | \~                                                                                                  |
+| Pan paniscus          | No     | \~                                                                                                  |
+| Pongo abelii          | No     | \~                                                                                                  |
+| Canis lupus familiaris| No     | https://www.mdpi.com/2076-2615/13/4/624                                                             |
+| Camelus dromedarius   | Yes    | https://www.sciencedirect.com/science/article/abs/pii/S2213260014701584?via%3Dihub                  |
+| Ovis orientalis       | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
+| Bos taurus indicus    | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
+| Capra aegagrus hircus | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
+| Rousettus aegyptiacus | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article | https://pubmed.ncbi.nlm.nih.gov/25114257/ |
+| Oryctolagus cuniculus | No     | https://pubmed.ncbi.nlm.nih.gov/25810539/                                                           |
+| Mustela putorius furo | No     | https://journals.asm.org/doi/10.1128/JVI.02935-13                                                   |
+| Mesocricetus auratus  | No     | https://pubmed.ncbi.nlm.nih.gov/23844250/                                                           |
+| Mus musculus          | No     | https://pubmed.ncbi.nlm.nih.gov/24197535/                                                           |
+|                       |        |                                                                                                     |
+|                       |        |                                                                                                     |
+|                       |        |                                                                                                     |
 MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
 
 
