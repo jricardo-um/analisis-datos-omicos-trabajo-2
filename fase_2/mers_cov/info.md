@@ -59,4 +59,3 @@ A number of animal species have been assessed to model human MERS-CoV infection,
 
 Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
 
-
