@@ -6,4 +6,4 @@ With these file we began this study about the infection of coronviruses in other
 
 # Methodology 
 
-Initially we used the blastp function on 
+Initially we used the `blastp` function on 
