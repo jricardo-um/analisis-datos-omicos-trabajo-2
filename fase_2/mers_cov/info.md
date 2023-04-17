@@ -60,5 +60,10 @@ MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is bel
 
 Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque with protein sequences with 99% similarity and callithrix jacchus 99% indicate that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
 
+Transmission between animals and humans https://www.frontiersin.org/articles/10.3389/fvets.2016.00088/full
+
 Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
 
+After reading several studies confirming that most of the animals studied so far do not act as reservoirs of the Mers-Cov virus, but only suffer from it. We will analyse the conserved regions of the DPP4 of the most characteristic species and try to predict whether they can act as reservoirs, as no studies have been carried out on the species we will be dealing with. 
+
+We will take the sequence of X species and compare it to the Uniprot protein database in order to find these regions that can guide us when we are unable to carry out experimental work.
