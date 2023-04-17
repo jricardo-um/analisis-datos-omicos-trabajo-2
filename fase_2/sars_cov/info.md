@@ -13,7 +13,7 @@ NOTE: Isoform 2 only found on infected cells, replaces first 356 residues with `
 
 # Log
 
-## [History 1](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega1)
+## [flow_1](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega1)
 
 Use `blastp` human ACE2 against representative ACE2, filtered by `bitscore`>`1300`. Output column reference:
 
@@ -41,33 +41,22 @@ The process is repeated with the new database and the species are searched for e
  tsv=./FINAL.tsv
 ```
 
-## Search for evidence
+## flow_2
 
-| Species    | Sars-CoV | Sars-CoV-2 |
-| ---------- | -------- | ---------- |
-| cat        | yes      | yes        |
-| mice       | low      | no/low     |
-| hamster    | yes      | yes        |
-| ferrets    | yes      | yes        |
-| primates   |          | yes        |
-| pigs       |          | no         |
-| chickens   |          | no         |
-| ducks      |          | no         |
-| dogs       |          | yes/low    |
-| raccoon    | yes      |            |
-| palm civet | yes      |            |
-| monkey     | yes      |            |
-| bat        | yes      | yes        |
-| rat        | no       |            |
-| tiger      | yes      | yes        |
-| lion       | yes      | yes        |
-| mink       | yes      | yes        |
-| rabbit     |          | no         |
-|            |          |            |
-|            |          |            |
-|            |          |            |
-|            |          |            |
-|            |          |            |
+Workflow:
+
+- add family name to species with `species.py` script for more structured search.
+
+- search in scienteific literature for all possible species.
+
+- anotate results in table from `flow_1` or below if entry missing.
+
+| Species                                            | SARS-CoV-2<br>transmission |
+|:--------------------------------------------------:|:--------------------------:|
+| Snow leopard<br/>(Uncia uncia)                     | no                         |
+| Northern treeshrew<br/>(Tupaia belangeri)          | yes                        |
+| Egyptian fruit bat<br/>(Rousettus<br/>aegyptiacus) | yes                        |
+| Tiger<br/>(Panthera tigris)                        | yes                        |
 
 Info from:
 
@@ -83,10 +72,8 @@ Info from:
 
 - [An Overview of SARS-CoV-2 and Animal Infection](https://www.frontiersin.org/articles/10.3389/fvets.2020.596391/full)
 
-- 
-
-Interesting:
-
 - [Receptor recognition and cross-species infections of SARS coronavirus - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166354213002222?via%3Dihub)
 
-# EOF
+## [flow_3](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3test)
+
+EOF
