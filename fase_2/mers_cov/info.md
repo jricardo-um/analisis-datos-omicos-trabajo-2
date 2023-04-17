@@ -64,6 +64,9 @@ Transmission between animals and humans https://www.frontiersin.org/articles/10.
 
 Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
 
+It should be noted that the case of the spread of alpha variant viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the spread of the virus to marine fauna https://www.sciencedirect.com/science/article/pii/S0048969720368777
+
 After reading several studies confirming that most of the animals studied so far do not act as reservoirs of the Mers-Cov virus, but only suffer from it. We will analyse the conserved regions of the DPP4 of the most characteristic species and try to predict whether they can act as reservoirs, as no studies have been carried out on the species we will be dealing with. 
 
 We will take the sequence of X species and compare it to the Uniprot protein database in order to find these regions that can guide us when we are unable to carry out experimental work.
+
