@@ -6,4 +6,7 @@ With these file we began this study about the infection of coronviruses in other
 
 # Methodology 
 
-Initially we used the `blastp` function on the initial fasta document to allign all the sequences. 
+Initially we used the `blastp` function on the initial fasta document to allign all the sequences. The idea is allign the h(APN) sequence with the same receptor in other speciesand compare those results to get the most similar species 
+
+# Human coronavirus 229E
+
