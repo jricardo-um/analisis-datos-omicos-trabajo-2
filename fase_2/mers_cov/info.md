@@ -26,7 +26,7 @@ In this section we will try to discover possible reservoirs of this virus from t
 
 For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastn tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
-We have found different types of animal species:
+We have found different types of animal species which have a high relation:
 
 | Species               | Result | Paper                                                                                               |
 | --------------------- | ------ | --------------------------------------------------------------------------------------------------- |
@@ -53,9 +53,12 @@ We have found different types of animal species:
 |                       |        |                                                                                                     |
 |                       |        |                                                                                                     |
 
+The result section indicates whether the species can act right now with the data obtained as a reservoir, seeing that only the dromedary and the African bat act as such 
+and species that do not have a paper associated with them are those for which no study has been carried out that can confirm their capacity as a reservoir of Mers-Cov virus.
+
 MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
 
-A number of animal species have been assessed to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters, and mice, but found to be nonsusceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse but is conserved in humans and nonhuman primates making nonhuman primates an ideal model of infection. The DPP4 receptor from a small nonhuman primate like rhesus macaque and callithrix jacchus
+Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque with protein sequences with 99% similarity and callithrix jacchus 99% indicate that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
 
 Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
 
