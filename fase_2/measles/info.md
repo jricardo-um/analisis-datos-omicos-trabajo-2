@@ -30,9 +30,16 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 |Tupaia chinensis|--------|
 |Carlito syrichta|--------|
 |Galeopterus variegatus|--------|
-|-------|--------|
-|-------|--------|
-|-------|--------|
-|-------|--------|
-|-------|--------|
-|-------|--------|
+|Rousettus aegyptiacus|--------|
+|Propithecus coquereli|--------|
+|Diceros bicornis minor|--------|
+|Marmota monax|--------|
+|Marmota flaviventris|--------|
+|Oryctolagus cuniculus|--------|
+|Ceratotherium simum simum |--------|
+|Pteropus vampyrus|--------|
+|Choloepus didactylus|--------|
+|Camelus ferus|--------|
+|Hipposideros armiger|--------|
+|Camelus dromedarius|--------|
+|Vicugna pacos|--------|
