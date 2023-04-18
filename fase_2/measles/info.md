@@ -10,3 +10,29 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 
 # Human coronavirus 229E
 
+|Species|Evidence|
+|-------|--------|
+|Macaca mulatta|--------|
+|Pan troglodytes|--------|
+|Mandrillus leucophaeus|--------|
+|Macaca fascicularis|--------|
+|Theropitecus gelada|--------|
+|Gorilla gorilla gorilla|--------|
+|pongo abelii|--------|
+|Chlorocebus sabaeus|--------|
+|Rhinopithecus bieti|--------|
+|Colobus angolensis palliatus|--------|
+|Cebus imitator|--------|
+|Saimiri boliviensis boliviensis|--------|
+|Sapajus apella|--------|
+|Aotus nancymaae|--------|
+|Otolemur garnettii|--------|
+|Tupaia chinensis|--------|
+|Carlito syrichta|--------|
+|Galeopterus variegatus|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
+|-------|--------|
