@@ -28,7 +28,7 @@ For this, we will use the sequence of the DPP4 protein present in Homo sapiens. 
 
 [Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
 
-We have found different types of animal species which have a high relation:
+We have found different types of animal species which could be a possible reservoir and have a high relation with the human protein:
 
 |  Uniprot   | Species               | Result | Paper                                                                                               |
 |------------| --------------------- | ------ | --------------------------------------------------------------------------------------------------- |
