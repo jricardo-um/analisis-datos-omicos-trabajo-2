@@ -30,26 +30,26 @@ We have found different types of animal species which have a high relation:
 
 |  Uniprot   | Species               | Result | Paper                                                                                               |
 |------------| --------------------- | ------ | --------------------------------------------------------------------------------------------------- |
-|            | Chlorocebus aethiops  | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706928/                                               |
-|            | Rhesus macaque        | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107340/                                               | 
-|            | Saimiri boliviensis   | No     | \~                                                                                                  |
-|            | Aotus nancymaae       | No     | \~                                                                                                  |
+|A0A0D9RSY5  | Chlorocebus sabaeus   | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7706928/                                               |
+|F6VRB0      | Rhesus macaque        | No     | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107340/                                               | 
+|A0A2K6UUT9  | Saimiri boliviensis   | No     | \~                                                                                                  |
+|A0A2K5F6W0  | Aotus nancymaae       | No     | \~                                                                                                  |
 |A0A2K5LB19  | Cercocebus atys       | No     | \~                                                                                                  |
-|            | Callithrix jacchus    | No     | https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004250#s2                  |
+|F7IHU4      | Callithrix jacchus    | No     | https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1004250#s2                  |
 |A0A6D2X1C5  | Pan troglodytes       | No     | \~                                                                                                  |
 |G3SI68      | Gorilla gorilla       | No     | \~                                                                                                  |
 |A0A2R9CCY4  | Pan paniscus          | No     | \~                                                                                                  |
 |H2P7N3      | Pongo abelii          | No     | \~                                                                                                  |
-|            | Canis lupus familiaris| No     | https://www.mdpi.com/2076-2615/13/4/624                                                             |
+|A0A8I3Q958  | Canis lupus familiaris| No     | https://www.mdpi.com/2076-2615/13/4/624                                                             |
 |A0A075T9L1  | Camelus dromedarius   | Yes    | https://www.sciencedirect.com/science/article/abs/pii/S2213260014701584?via%3Dihub                  |
 |A0A075T9L7  | Ovis orientalis       | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
-|            | Bos taurus indicus    | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
+|A0A4W2EX30  | Bos taurus indicus    | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
 |A0A452FGS0  | Capra aegagrus hircus | No     | https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2013.18.50.20662                       |
 |A0A2Z5CWB8  | Rousettus aegyptiacus | Yes    | https://wwwnc.cdc.gov/eid/article/19/11/13-1172_article | https://pubmed.ncbi.nlm.nih.gov/25114257/ |
-|            | Oryctolagus cuniculus | No     | https://pubmed.ncbi.nlm.nih.gov/25810539/                                                           |
-|            | Mustela putorius furo | No     | https://journals.asm.org/doi/10.1128/JVI.02935-13                                                   |
-|            | Mesocricetus auratus  | No     | https://pubmed.ncbi.nlm.nih.gov/23844250/                                                           |
-|            | Mus musculus          | No     | https://pubmed.ncbi.nlm.nih.gov/24197535/                                                           |
+|\~          | Oryctolagus cuniculus | No     | https://pubmed.ncbi.nlm.nih.gov/25810539/                                                           |
+|M3XN99      | Mustela putorius furo | No     | https://journals.asm.org/doi/10.1128/JVI.02935-13                                                   |
+|A0A075TJ59  | Mesocricetus auratus  | No     | https://pubmed.ncbi.nlm.nih.gov/23844250/                                                           |
+|P28843      | Mus musculus          | No     | https://pubmed.ncbi.nlm.nih.gov/24197535/                                                           |
 |            |                       |        |                                                                                                     |
 |            |                       |        |                                                                                                     |
 
