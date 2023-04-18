@@ -60,6 +60,8 @@ and species that do not have a paper associated with them are those for which no
 
 After reading several studies confirming that most of the animals studied so far do not act as reservoirs of the Mers-Cov virus, but only suffer from it. We will analyse the conserved regions of the DPP4 of the most characteristic species and try to predict whether they can act as reservoirs, as no studies have been carried out on the species we will be dealing with. 
 
+[Visual description of how a dromedary acts as a reservoir.](./Visual_description_of_how_a_dromedary_acts_as_a_reservoir.jpg)
+
 MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
 
 Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque and callithrix jacchus have a high similitud and this indicates that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
