@@ -26,7 +26,7 @@ In this section we will try to discover possible reservoirs of this virus from t
 
 For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastp tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
-[Galaxy84-blastp_secuencias_final_score.txt](./Galaxy84-blastp_secuencias_final_score.txt)
+[Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
 
 We have found different types of animal species which have a high relation:
 
