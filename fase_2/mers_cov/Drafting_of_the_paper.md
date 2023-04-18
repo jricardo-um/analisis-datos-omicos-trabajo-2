@@ -2,7 +2,7 @@
 
 > [UniProt P27487 entry](https://www.uniprot.org/uniprotkb/P27487/entry)
 
-Sequence downloaded to [P27487.fasta](./P27487.fasta).
+Sequence downloaded to [P27487.fasta](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Sequences_origin/P27487.fasta).
 
 Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
 
