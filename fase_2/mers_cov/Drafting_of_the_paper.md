@@ -66,11 +66,11 @@ MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is bel
 
 Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque and callithrix jacchus have a high similitud and this indicates that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
 
-Transmission between animals and humans https://www.frontiersin.org/articles/10.3389/fvets.2016.00088/full
+[Transmission between animals and humans](./https://www.frontiersin.org/articles/10.3389/fvets.2016.00088/full)
 
-Cross-species transmission, evolution and zoonotic potential of coronaviruses https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full
+[Cross-species transmission, evolution and zoonotic potential of coronaviruses](./https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full)
 
-It should be noted that the case of the spread of alpha variant viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the spread of the virus to marine fauna https://www.sciencedirect.com/science/article/pii/S0048969720368777
+It should be noted that the case of the spread of alpha variant viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the [spread of the virus to marine fauna. ](./https://www.sciencedirect.com/science/article/pii/S0048969720368777)
 
-We will take the sequence of those species that we are studying and compare it to the Uniprot protein database in order to find these regions that can guide us when we are unable to carry out experimental work.
+We will take the sequence of the species we are studying that are reservoirs and those that are not, compare with the results using a sequenceLogo after aligning the sequences using Galaxy's ClustalW tool and interpret the results in order to see which regions are common to which species and guess whether they may act as reservoirs.
 
