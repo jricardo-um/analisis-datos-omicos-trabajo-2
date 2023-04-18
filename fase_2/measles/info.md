@@ -18,8 +18,8 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 |Macaca fascicularis|No|
 |Theropitecus gelada|No|
 |Gorilla gorilla gorilla|No|
-|pongo abelii|--------|
-|Chlorocebus sabaeus|--------|
+|pongo abelii|No|
+|Chlorocebus sabaeus|No|
 |Rhinopithecus bieti|--------|
 |Colobus angolensis palliatus|--------|
 |Cebus imitator|--------|
@@ -30,14 +30,14 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 |Tupaia chinensis|--------|
 |Carlito syrichta|--------|
 |Galeopterus variegatus|--------|
-|Rousettus aegyptiacus|--------|
+|Rousettus aegyptiacus|Si|
 |Propithecus coquereli|--------|
 |Diceros bicornis minor|--------|
-|Marmota monax|--------|
-|Marmota flaviventris|--------|
-|Oryctolagus cuniculus|--------|
-|Ceratotherium simum simum |--------|
-|Pteropus vampyrus|No|
+|Marmota monax|No|
+|Marmota flaviventris|No|
+|Oryctolagus cuniculus|No|
+|Ceratotherium simum simum |No|
+|Pteropus vampyrus|Si|
 |Choloepus didactylus|No|
 |Camelus ferus|No|
 |Hipposideros armiger|Si|
