@@ -12,12 +12,12 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 
 |Species|Evidence|
 |-------|--------|
-|Macaca mulatta|--------|
-|Pan troglodytes|--------|
-|Mandrillus leucophaeus|--------|
-|Macaca fascicularis|--------|
-|Theropitecus gelada|--------|
-|Gorilla gorilla gorilla|--------|
+|Macaca mulatta|No|
+|Pan troglodytes|No|
+|Mandrillus leucophaeus|No|
+|Macaca fascicularis|No|
+|Theropitecus gelada|No|
+|Gorilla gorilla gorilla|No|
 |pongo abelii|--------|
 |Chlorocebus sabaeus|--------|
 |Rhinopithecus bieti|--------|
@@ -37,9 +37,10 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 |Marmota flaviventris|--------|
 |Oryctolagus cuniculus|--------|
 |Ceratotherium simum simum |--------|
-|Pteropus vampyrus|--------|
-|Choloepus didactylus|--------|
-|Camelus ferus|--------|
-|Hipposideros armiger|--------|
-|Camelus dromedarius|--------|
-|Vicugna pacos|--------|
+|Pteropus vampyrus|No|
+|Choloepus didactylus|No|
+|Camelus ferus|No|
+|Hipposideros armiger|Si|
+|Camelus dromedarius|Si|
+|Vicugna pacos|Si|
+|Mus musculus|Si|
