@@ -6,7 +6,7 @@ Sequence downloaded to [P27487.fasta](https://github.com/jricardo-um/analisis-da
 
 Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
 
-Sequences downloaded with a 90% of similitude [P27487_similar.fasta](./P27487_similar.fasta)
+Sequences downloaded with a 90% of similitude [P27487_similar.fasta](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Sequences_origin/P27487_similar.fasta)
 
 MERS-CoV (Middle East Respiratory Syndrome Coronavirus) is a beta coronavirus that causes severe respiratory illnesses in humans. It is believed to have originated in animals, possibly camels, and is primarily transmitted to humans through contact with infected animals or their respiratory secretions. It can also spread among people through close contact, such as caring for infected patients.
 
