@@ -1,21 +1,21 @@
 
   Uniprot    Species                  score
-|A0A6D2X1C5|Pan troglodytes 1594
-|A0A2R9CCY4|Pan paniscus 1592
-|G3SI68|Gorilla gorilla gorilla 1590
-|H2P7N3|Pongo abelii         1590
-|F6VRB0|Macaca mulatta         1571
-|A0A0D9RSY5|Chlorocebus sabaeus 1571
-|F7IHU4|Callithrix jacchus         1561
-|A0A2K6UUT9|Saimiri boliviens 1536
-|A0A2K5LB19|Cercocebus atys 1514
-|A0A2K5F6W0|Aotus nancymaae 1496
-|A0A075T9L1|Camelus dromedarius 1441
-|A0A2Z5CWB8|Rousettus aegyptiacus 1417
-|A0A075T9L7|Ovis aries 1416
-|A0A8I3Q958|Canis lupus familiaris  1406
-|M3XN99|Mustela putorius furo         1405
-|A0A452FGS0|Capra hircus 1395
-|A0A4W2EX30|Bos indicus 1378
-|A0A075TJ59|Mesocricetus auratus 1365
-|P28843|Mus musculus           1349
+|A0A6D2X1C5|Pan troglodytes         | 1594
+|A0A2R9CCY4|Pan paniscus            | 1592
+|G3SI68    |Gorilla gorilla gorilla | 1590
+|H2P7N3    |Pongo abelii            | 1590
+|F6VRB0    |Macaca mulatta          | 1571
+|A0A0D9RSY5|Chlorocebus sabaeus     | 1571
+|F7IHU4    |Callithrix jacchus      | 1561
+|A0A2K6UUT9|Saimiri boliviens       | 1536
+|A0A2K5LB19|Cercocebus atys         | 1514
+|A0A2K5F6W0|Aotus nancymaae         | 1496
+|A0A075T9L1|Camelus dromedarius     | 1441
+|A0A2Z5CWB8|Rousettus aegyptiacus   | 1417
+|A0A075T9L7|Ovis aries              | 1416
+|A0A8I3Q958|Canis lupus familiaris  | 1406
+|M3XN99    |Mustela putorius furo   | 1405
+|A0A452FGS0|Capra hircus            | 1395
+|A0A4W2EX30|Bos indicus             | 1378
+|A0A075TJ59|Mesocricetus auratus    | 1365
+|P28843    |Mus musculus            | 1349
