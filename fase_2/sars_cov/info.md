@@ -76,6 +76,4 @@ Info from:
 
 ## [flow_3](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3) ([old](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3test))
 
-
-
 EOF
