@@ -74,6 +74,8 @@ Info from:
 
 - [Receptor recognition and cross-species infections of SARS coronavirus - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0166354213002222?via%3Dihub)
 
-## [flow_3](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3test)
+## [flow_3](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3) ([old](https://usegalaxy.eu/u/jricardo.alonso_um.es/h/adoentrega3test))
+
+
 
 EOF
