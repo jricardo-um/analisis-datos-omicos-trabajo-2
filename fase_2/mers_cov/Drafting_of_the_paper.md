@@ -24,7 +24,9 @@ The interaction between the MERS-CoV Spike protein and the DPP4 protein is a pot
 
 In this section we will try to discover possible reservoirs of this virus from the DPP4 protein, a reservoir being a place where an organism or substance can remain latent, persistent or active, and from where it can be released or transmitted to other organisms.
 
-For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastn tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
+For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastp tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
+
+[Galaxy84-blastp_secuencias_final_score.txt](./Galaxy84-blastp_secuencias_final_score.txt)
 
 We have found different types of animal species which have a high relation:
 
@@ -68,5 +70,5 @@ It should be noted that the case of the spread of alpha variant viruses in marin
 
 After reading several studies confirming that most of the animals studied so far do not act as reservoirs of the Mers-Cov virus, but only suffer from it. We will analyse the conserved regions of the DPP4 of the most characteristic species and try to predict whether they can act as reservoirs, as no studies have been carried out on the species we will be dealing with. 
 
-We will take the sequence of X species and compare it to the Uniprot protein database in order to find these regions that can guide us when we are unable to carry out experimental work.
+We will take the sequence of those species and compare it to the Uniprot protein database in order to find these regions that can guide us when we are unable to carry out experimental work.
 
