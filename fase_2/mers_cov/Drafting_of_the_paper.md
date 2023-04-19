@@ -100,7 +100,7 @@ We have aligned the sequences of species that can act as reservoirs and the sequ
 
 Therefore, if we see that the unstudied sequences have certain regions in common with the positive species, we could venture to say that they could act as reservoirs, pending an experimental study to confirm this.
 
-[Species which have been shown to be reservoir species](./https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy107-%5BClustalW_Positive__fasta%5D.fasta)
+[Species which have been shown to be reservoir species](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy107-%5BClustalW_Positive__fasta%5D.fasta)
 
-[Species not proven to be reservoirs](./https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy109-%5BClustalW_Negative__fasta%5D.fasta)
+[Species not proven to be reservoirs](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy109-%5BClustalW_Negative__fasta%5D.fasta)
 
