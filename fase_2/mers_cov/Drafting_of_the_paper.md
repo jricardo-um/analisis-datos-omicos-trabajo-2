@@ -94,3 +94,13 @@ It should be noted that the case of the spread of alpha and beta variants viruse
 
 We will take the sequence of the species we are studying that are reservoirs and those that are not, compare with the results using a `sequenceLogo` after aligning the sequences using Galaxy's `ClustalW` tool and interpret the results in order to see which regions are common to which species and guess whether they may act as reservoirs.
 
+## Possible reservoirs and interpretation
+
+We have aligned the sequences of species that can act as reservoirs and the sequences of species that cannot. We will then compare which regions of the protein are conserved between the two cases by using a sequenceLogo.
+
+Therefore, if we see that the unstudied sequences have certain regions in common with the positive species, we could venture to say that they could act as reservoirs, pending an experimental study to confirm this.
+
+[Species which have been shown to be reservoir species](./Galaxy107-[ClustalW_Positive__fasta].fasta)
+
+[Species not proven to be reservoirs](./Galaxy109-[ClustalW_Negative__fasta].fasta)
+
