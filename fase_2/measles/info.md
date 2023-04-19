@@ -61,3 +61,6 @@ As we can see in the image, we have very repeated patterns, which could be consi
 
 Next, after reviewing the literature, we will study the sequences of those species that are more closely related and those that are not. First, we will perform a general scan of the sequence using `Sequence Logo`, as we mentioned earlier. We will do this for both the species that are infected and those that are not infected.
 
+- [Infected](./Galaxy78-[Difference_bt_infected_SL.png].png)
+- [No infected](./Galaxy79-[Difference_bt_no_infected_SL.png].png)
+
