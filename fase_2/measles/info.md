@@ -70,7 +70,7 @@ In the second case, we see more blue letters than green and black ones. The colo
 
 To finish, we will analyze the sequences in a specific way. Using the NGPhylogeny application, we can see the sequences in depth, from the point of view of the most conserved nucleotides. Later, we can see a generated phylogenetic tree for the different datasets.
 
-- [Infected set full colored] (./ALl_infected_fullcolor.png)
+- [Infected set full colored](./ALl_infected_fullcolor.png)
 - [Infected set only nucleottide differences](./All_infected_nucleotide-png)
 
 
