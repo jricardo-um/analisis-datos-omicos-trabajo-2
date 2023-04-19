@@ -50,7 +50,7 @@ Several animal species have been evaluated to model human MERS-CoV infection, in
 
 In this section we will try to discover possible reservoirs of this virus from the DPP4 protein, a reservoir being a place where an organism or substance can remain latent, persistent or active, and from where it can be released or transmitted to other organisms.
 
-For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastp tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
+For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the `Blastp` tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
 ## [Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
 
@@ -92,5 +92,5 @@ After reading several studies confirming that most of the animals studied so far
 
 It should be noted that the case of the spread of alpha and beta variants viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the [spread of the virus to marine fauna. ](./https://www.sciencedirect.com/science/article/pii/S0048969720368777)
 
-We will take the sequence of the species we are studying that are reservoirs and those that are not, compare with the results using a sequenceLogo after aligning the sequences using Galaxy's ClustalW tool and interpret the results in order to see which regions are common to which species and guess whether they may act as reservoirs.
+We will take the sequence of the species we are studying that are reservoirs and those that are not, compare with the results using a `sequenceLogo` after aligning the sequences using Galaxy's `ClustalW` tool and interpret the results in order to see which regions are common to which species and guess whether they may act as reservoirs.
 
