@@ -20,19 +20,9 @@ Initially we used the `blastp` function on the initial fasta document to allign 
 |Gorilla gorilla gorilla|No|
 |pongo abelii|No|
 |Chlorocebus sabaeus|No|
-|Rhinopithecus bieti|--------|
-|Colobus angolensis palliatus|--------|
-|Cebus imitator|--------|
-|Saimiri boliviensis boliviensis|--------|
-|Sapajus apella|--------|
-|Aotus nancymaae|--------|
-|Otolemur garnettii|--------|
-|Tupaia chinensis|--------|
-|Carlito syrichta|--------|
-|Galeopterus variegatus|--------|
-|Rousettus aegyptiacus|Si|
-|Propithecus coquereli|--------|
-|Diceros bicornis minor|--------|
+|Rhinopithecus bieti|No|
+|Colobus angolensis palliatus|No|
+|Diceros bicornis minor|No|
 |Marmota monax|No|
 |Marmota flaviventris|No|
 |Oryctolagus cuniculus|No|
