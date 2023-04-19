@@ -4,17 +4,17 @@
 
 Sequence downloaded to [P27487.fasta](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Sequences_origin/P27487.fasta).
 
-Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
+> Workflow GitHub: https://usegalaxy.org/u/ricksho315/h/omicproject
 
 Sequences downloaded with a 90% of similitude [P27487_similar.fasta](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Sequences_origin/P27487_similar.fasta)
 
 MERS-CoV (Middle East Respiratory Syndrome Coronavirus) is a beta coronavirus that causes severe respiratory illnesses in humans. It is believed to have originated in animals, possibly camels, and is primarily transmitted to humans through contact with infected animals or their respiratory secretions. It can also spread among people through close contact, such as caring for infected patients.
 
-[Structure of MERS-CoV spike receptor-binding domain complexed with human receptor DPP4](./https://www.nature.com/articles/cr201392#Sec2)
+# [Structure of MERS-CoV spike receptor-binding domain complexed with human receptor DPP4](./https://www.nature.com/articles/cr201392#Sec2)
 
 In this study, the structure of the Middle East Respiratory Syndrome-CoV (MERS-CoV) S protein and its interaction with the DPP4 protein on the surface of host cells was investigated. It was found that the S protein of the virus binds to the DPP4 protein to enter host cells. Identification of the critical residues involved in the binding between these proteins will help in the development of antiviral treatments for MERS-CoV.
 
-This study focused on the identification of critical residues in the S protein of MERS-CoV that are important for viral binding and entry into host cells. Mutations in certain residues were found to significantly reduce binding to the DPP4 protein and the efficiency of viral entry into host cells. The results suggest that the interaction between the virus S protein and the DPP4 protein is crucial for viral entry.
+The paper is focused on the identification of critical residues in the S protein of MERS-CoV that are important for viral binding and entry into host cells. Mutations in certain residues were found to significantly reduce binding to the DPP4 protein and the efficiency of viral entry into host cells. The results suggest that the interaction between the virus S protein and the DPP4 protein is crucial for viral entry.
 
 The molecular structure of the MERS-CoV S protein and its interaction with the cellular DPP4 receptor. The researchers identified specific residues in the S protein of the virus that are critical to its ability to bind to the DPP4 receptor and enter host cells.
 
@@ -23,6 +23,8 @@ The MERS-CoV S protein consists of two main subdomains: the core and the recepto
 The study also revealed that the S protein of MERS-CoV specifically binds to cleavages 4 and 5 of the β-propeller domain of DPP4. This binding occurs due to complementarity of charges and shapes at the binding interface. The positive charges on the outer surface of DPP4 blades 4 and 5 interact with the negative charges on the surface of the virus S-protein, while the short alpha helix between DPP4 blades 4 and 5 binds to the concave, hydrophobic surface of the S-protein.
 
 Furthermore, the enzymatic site of DPP4 was found to be far from the binding site of the MERS-CoV S protein, which explains why DPP4 enzyme inhibitors do not block virus entry into cells. Finally, the importance of structural differences between DPP4 and the ACE2 receptor in determining cell tropism and pathogenesis of MERS-CoV and SARS-CoV in living hosts is discussed.
+
+# Work and study to find reservoirs of the Mers-Cov virus
 
 MERS-CoV can cause a wide range of respiratory symptoms, ranging from mild cold-like symptoms to severe pneumonia with respiratory failure, and in some cases, death. Patients with chronic illnesses or weakened immune systems are at higher risk for severe complications.
 
@@ -40,7 +42,7 @@ In this section we will try to discover possible reservoirs of this virus from t
 
 For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastp tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
-[Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
+## [Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
 
 We have found different types of animal species which could be a possible reservoir and have a high relation with the human protein:
 
