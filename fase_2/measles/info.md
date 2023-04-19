@@ -53,6 +53,8 @@ After finishing the literature search, we decided to use these three species to 
 
 # Results and Discussion
 
-First of all we are goping to see a mapp with all the allignemnts of the sequences from different species that we got in the blastp.
+First of all we are goping to see a mapp with all the allignemnts of the sequences from different species that we got in the blastp. 
+
+- [Picture 1](./consurf_colored_seq.pdf)
 
 
