@@ -104,9 +104,9 @@ Therefore, if we see that the unstudied sequences have certain regions in common
 
 [Species which have been shown to be reservoir species](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy107-%5BClustalW_Positive__fasta%5D.fasta)
 
-[Conserved domains in positive cases]
+[Conserved domains in positive cases](https://ngphylogeny.fr/data/displaymsa/33efed1db158003a)
 
 [Species not proven to be reservoirs](https://github.com/jricardo-um/analisis-datos-omicos-trabajo-2/blob/main/fase_2/mers_cov/Alignment/Galaxy109-%5BClustalW_Negative__fasta%5D.fasta)
 
-[Conserved domains in negative cases]
+[Conserved domains in negative cases](https://ngphylogeny.fr/data/displaymsa/cddf1149445feab4)
 
