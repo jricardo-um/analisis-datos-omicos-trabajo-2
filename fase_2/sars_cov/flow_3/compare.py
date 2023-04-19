@@ -27,8 +27,9 @@ props = { aa: pr
 	) }
 
 
-def getpattern( muscle ):
+def getpattern( muscle, margin=0 ):
 	amax = max( sum( row ) for ind, row in muscle.iterrows() )
+	amax -= margin
 	for ind, row in muscle.iterrows():
 		xmax = row.idxmax()
 		vmax = row[ xmax ] if pandas.notna( xmax ) else 0
@@ -40,10 +41,10 @@ yesp = list( getpattern( yesdb.drop( yesdb.columns[ -4: ], axis=1 ) ) )
 diff = ''.join( '=' if y == n or y != '-' else n for y, n in zip( yesp, nonp ) )
 
 
-def cprint( l, m=7 ):
+def cprint( l, window=7, margin=2 ):
 	s = 0
-	for x in sliding_window( l, m ):
-		if sum( c != '=' for c in x ) > 2: s = m
+	for x in sliding_window( l, window ):
+		if sum( c != '=' for c in x ) > margin: s = window
 		if s:
 			print( '\x1b[33m', end='' )
 			s -= 1
