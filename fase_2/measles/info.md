@@ -47,7 +47,7 @@ After selecting the datasets we are going to use, based on the literature, we pr
 |Vicugna pacos|79|
 |Mus musculus|76.319|
 
-After finishing the literature search, we decided to use these three species to conduct the study of the 229E receptor sequence. To do this, we first performed an analysis of the sequences with the usegalaxy.com application using the sequence Logo tool. Next, we used the NGPhylogeny application that performs multiple alignments and phylogenetic trees. From this, we will identify the sequence differences between the different receptors. For this, we will create two datasets, one with all the species that are infected, and another with those that are not infected.
+After finishing the literature search, we decided to use these three species to conduct the study of the 229E receptor sequence. To do this, we first performed an analysis of the sequences with the usegalaxy.com application using the `sequence Logo` tool. Next, we used the NGPhylogeny application that performs multiple alignments and phylogenetic trees. From this, we will identify the sequence differences between the different receptors. For this, we will create two datasets, one with all the species that are infected, and another with those that are not infected.
 
 # Human coronavirus 229E
 
@@ -56,5 +56,7 @@ After finishing the literature search, we decided to use these three species to 
 First of all we are goping to see a mapp with all the allignemnts of the sequences from different species that we got in the blastp. 
 
 - [Picture 1](./consurf_colored_seq.pdf)
+
+
 
 
