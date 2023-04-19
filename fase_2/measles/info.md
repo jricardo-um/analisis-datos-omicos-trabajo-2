@@ -68,8 +68,10 @@ This study is very general, because the layout of the image that this tool provi
 
 In the second case, we see more blue letters than green and black ones. The color scheme follows the following pattern: blue letters are related to the most conserved nucleotides in the sequence. We see that the sequences that do not get infected have more of these types of nucleotides because they have a greater similarity to the original sequence. This is different for the infected sequence. Green letters have an intermediate conservation level, and black letters are those that are not conserved among the different types.
 
+To finish, we will analyze the sequences in a specific way. Using the NGPhylogeny application, we can see the sequences in depth, from the point of view of the most conserved nucleotides. Later, we can see a generated phylogenetic tree for the different datasets.
 
-
+- [Infected set full colored] (./ALl_infected_fullcolor.png)
+- [Infected set only nucleottide differences](./All_infected_nucleotide-png)
 
 
 
