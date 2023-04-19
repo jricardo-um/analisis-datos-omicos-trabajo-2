@@ -1,4 +1,4 @@
-# host protein sequence
+# Mers-CoV Virus Section
 
 > [UniProt P27487 entry](https://www.uniprot.org/uniprotkb/P27487/entry)
 
