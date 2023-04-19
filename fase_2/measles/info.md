@@ -81,4 +81,4 @@ In the case of those species that are seen to be infected, and could potentially
 - [No Infected set only nucleotide](./All_no_infected_nucleotide.png)
 
 
-
+In the case of the species that do not get infected, we have many more conserved sequences. As we can see in clustal2, there are many more areas of blue color, indicating repeated nucleotides. If we look at the nucleotides at the specific level, there are fewer different nucleotides. Although we can see that at the end of the sequence, there are areas with different nucleotides. We also observe that the conserved areas mostly coincide with those sequences that do get infected, with the exception of a few. We could say that it is these differences in conserved areas that generate a change in the functional structure of the protein, allowing infection. In both data sets, we can see that there are more conserved sequences in the anterior part of the sequences than in the posterior part. This may indicate that one area may be structural nucleotides and others functional nucleotides, with more similar sequences in the functional ones.
