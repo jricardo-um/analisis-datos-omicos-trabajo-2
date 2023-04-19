@@ -38,11 +38,23 @@ The MERS-CoV Spike protein has been shown to interact with the DPP4 protein on t
 Once the MERS-CoV Spike protein binds to the DPP4 protein on the cell surface, it triggers a series of events that allow entry of the virus into the host cell, including fusion of the viral envelope with the cell membrane and release of the virus' genetic material into the cell. This leads to virus replication and the spread of infection.
 The interaction between the MERS-CoV Spike protein and the DPP4 protein is a potential target for the development of therapeutic and preventive strategies against MERS-CoV infection. For example, inhibitors of the Spike protein and the DPP4 protein have been investigated as possible approaches to block viral entry into cells and prevent MERS-CoV infection. However, more research is still needed to fully understand the interaction between these proteins and their potential application in the treatment or prevention of MERS-CoV infection.
 
+# Mers-CoV and and its relationship with animals and humans
+
+MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
+
+[Visual description of how a dromedary acts as a reservoir.](./Visual_description_of_how_a_dromedary_acts_as_a_reservoir.jpg)
+
+Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque and callithrix jacchus have a high similitud and this indicates that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
+
+[Transmission between animals and humans](./https://www.frontiersin.org/articles/10.3389/fvets.2016.00088/full)
+
 In this section we will try to discover possible reservoirs of this virus from the DPP4 protein, a reservoir being a place where an organism or substance can remain latent, persistent or active, and from where it can be released or transmitted to other organisms.
 
 For this, we will use the sequence of the DPP4 protein present in Homo sapiens. We will use the Blastp tool present on the Galaxy server in order to align with the different species whose sequences are similar or intrinsically related to the spread of the virus. These sequences that we are going to match can be found in a protein database such as Uniprot, which is the one we have used.
 
 ## [Scores of similitud between species and human protein DPP4](./Galaxy84-blastp_secuencias_final_score.txt)
+
+The sequences of animals most closely related to the human DPP4 protein and those sequences belonging to animal species known to have been infected have been chosen.
 
 We have found different types of animal species which could be a possible reservoir and have a high relation with the human protein:
 
@@ -75,14 +87,6 @@ The result section indicates whether the species can act right now with the data
 and species that do not have a paper associated with them are those for which no study has been carried out that can confirm their capacity as a reservoir of Mers-Cov virus.
 
 After reading several studies confirming that most of the animals studied so far do not act as reservoirs of the Mers-Cov virus, but only suffer from it. We will analyse the conserved regions of the DPP4 of the most characteristic species and try to predict whether they can act as reservoirs, as no studies have been carried out on the species we will be dealing with. 
-
-[Visual description of how a dromedary acts as a reservoir.](./Visual_description_of_how_a_dromedary_acts_as_a_reservoir.jpg)
-
-MERS-CoV is a zoonotic virus (transmitted between animals and humans). It is believed that humans can be infected by direct contact but at present it has only been shown to occur  with infected dromedary camels in the Middle East or their milk, urine or other body fluids.  Bats are a likely original reservoir; coronaviruses similar to MERS-CoV have been identified in bats (Rousettus aegyptiacus), but epidemiologic evidence of their role in transmission is lacking.
-
-Several animal species have been evaluated to model human MERS-CoV infection, including rabbits, ferrets, Syrian hamsters and mice, but have been found not to be susceptible to the virus. This was due to the function and distribution of the DPP4 receptor. The structure of the receptor is diverse, but is conserved in humans and non-human primates, making non-human primates an ideal model for infection. The DPP4 receptor of a small non-human primate such as the rhesus macaque and callithrix jacchus have a high similitud and this indicates that they may be future reservoirs due to the high sequence overlap of the DPP4 protein.
-
-[Transmission between animals and humans](./https://www.frontiersin.org/articles/10.3389/fvets.2016.00088/full)
 
 [Cross-species transmission, evolution and zoonotic potential of coronaviruses](./https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full)
 
