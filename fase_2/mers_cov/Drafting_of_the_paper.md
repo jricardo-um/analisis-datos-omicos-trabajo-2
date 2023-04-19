@@ -70,7 +70,7 @@ Several animal species have been evaluated to model human MERS-CoV infection, in
 
 [Cross-species transmission, evolution and zoonotic potential of coronaviruses](./https://www.frontiersin.org/articles/10.3389/fcimb.2022.1081370/full)
 
-It should be noted that the case of the spread of alpha variant viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the [spread of the virus to marine fauna. ](./https://www.sciencedirect.com/science/article/pii/S0048969720368777)
+It should be noted that the case of the spread of alpha and beta variants viruses in marine mammals has also been studied, but no conclusive data have been found that they act as a reservoir. What has been concluded is that coronavirus-contaminated discharges into water bodies should be properly treated in order to prevent the [spread of the virus to marine fauna. ](./https://www.sciencedirect.com/science/article/pii/S0048969720368777)
 
 We will take the sequence of the species we are studying that are reservoirs and those that are not, compare with the results using a sequenceLogo after aligning the sequences using Galaxy's ClustalW tool and interpret the results in order to see which regions are common to which species and guess whether they may act as reservoirs.
 
