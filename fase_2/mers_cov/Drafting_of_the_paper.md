@@ -112,3 +112,4 @@ The Nucleotide display scale shall be used to view the sequences in a more infor
 
 [Conserved domains in negative cases](https://ngphylogeny.fr/data/displaymsa/cddf1149445feab4)
 
+With these results we could venture to say that these regions could be the ones that make the species that can act as a reservoir. However, more experiments and further research in this field would be required to provide conclusive data.
