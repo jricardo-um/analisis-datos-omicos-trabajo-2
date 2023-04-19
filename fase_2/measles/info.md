@@ -74,7 +74,7 @@ To finish, we will analyze the sequences in a specific way. Using the NGPhylogen
 - [Infected set clustal2](./All_infected_clustal2.png)
 - [Infected set only nucleottide differences](./All_infected_nucleotide-png)
 
-
+In the case of those species that are seen to be infected, and could potentially pass on the coronavirus 229E, we can see that we have many nucleotides represented with different colors. In the image, we see a grid of different colors, one for each nucleotide. If we color it with the clustal2 color system, we can see in more detail (in blue) the nucleotides that are the same in the sequences. With the application, we can also see each of the nucleotides that are different at the same level in the 4 compared sequences. In the case of the species that are seen to be infected, we have more different nucleotides, especially in the final part of the sequences. This makes their similarity to the protein different. We could say that the infectivity potential of human coronavirus 229E is given by some very conserved areas that are more involved in the functionality of the protein.
 
 - [No infected set full colored](./All_no_infected_fullcolor.png)
 - [No infected set clustal2](./All_no_infected_clustal2.png)
