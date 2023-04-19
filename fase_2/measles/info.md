@@ -59,5 +59,5 @@ First of all we are goping to see a mapp with all the allignemnts of the sequenc
 
 As we can see in the image, we have very repeated patterns, which could be considered conserved, among the sequences. In this case, we are observing the entire alignment of the blastp tool against the sequence of our receptor protein. Therefore, we do not yet have a specific image of which species have a greater capacity for infection, and the difference between receptor structures. According to the color diagram that appears below, those nucleotides marked in purple are related to the conserved sequences. Those with a red-colored F are predictions of residues that may be functional for the protein. In contrast, the blue S residues are structural residues.
 
-
+Next, after reviewing the literature, we will study the sequences of those species that are more closely related and those that are not. First, we will perform a general scan of the sequence using `Sequence Logo`, as we mentioned earlier. We will do this for both the species that are infected and those that are not infected.
 
