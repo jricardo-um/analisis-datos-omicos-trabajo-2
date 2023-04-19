@@ -74,6 +74,7 @@ To finish, we will analyze the sequences in a specific way. Using the NGPhylogen
 - [Infected set only nucleottide differences](./All_infected_nucleotide-png)
 
 
+
 - [No infected set full colored](./All_no_infected_fullcolor.png)
 - [No Infected set only nucleotide](./All_no_infected_nucleotide.png)
 
