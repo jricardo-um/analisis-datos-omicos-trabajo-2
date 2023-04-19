@@ -24,7 +24,7 @@ The study also revealed that the S protein of MERS-CoV specifically binds to cle
 
 Furthermore, the enzymatic site of DPP4 was found to be far from the binding site of the MERS-CoV S protein, which explains why DPP4 enzyme inhibitors do not block virus entry into cells. Finally, the importance of structural differences between DPP4 and the ACE2 receptor in determining cell tropism and pathogenesis of MERS-CoV and SARS-CoV in living hosts is discussed.
 
-# Work and study to find reservoirs of the Mers-Cov virus
+# Work and study to find reservoirs of the Mers-CoV virus
 
 MERS-CoV can cause a wide range of respiratory symptoms, ranging from mild cold-like symptoms to severe pneumonia with respiratory failure, and in some cases, death. Patients with chronic illnesses or weakened immune systems are at higher risk for severe complications.
 
