@@ -12,7 +12,7 @@ After selecting the datasets we are going to use, based on the literature, we pr
 ## List of target species
 
 |Species||% of similarity|
-|-------||--------|
+|-------||---------------|
 |Macaca mulatta||94.938|
 |Pan troglodytes||98.656|
 |Mandrillus leucophaeus||94.215|
