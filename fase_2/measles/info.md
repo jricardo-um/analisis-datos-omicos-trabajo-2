@@ -13,12 +13,12 @@ After selecting the datasets we are going to use, based on the literature, we pr
 
 |Species||% of similarity|
 |-------||--------|
-|Macaca mulatta|||
-|Pan troglodytes|||
-|Mandrillus leucophaeus|||
-|Camelus dromedarius|||
-|Vicugna pacos|||
-|Mus musculus|||
+|Macaca mulatta||94.938|
+|Pan troglodytes||98.656|
+|Mandrillus leucophaeus||94.215|
+|Camelus dromedarius||76|
+|Vicugna pacos||79|
+|Mus musculus||76.319|
 
 # Human coronavirus 229E
 
