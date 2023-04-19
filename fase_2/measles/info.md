@@ -64,3 +64,4 @@ Next, after reviewing the literature, we will study the sequences of those speci
 - [Infected](./Galaxy78-[Difference_bt_infected_SL.png].png)
 - [No infected](./Galaxy79-[Difference_bt_no_infected_SL.png].png)
 
+This study is very general, because the layout of the image that this tool provides does not facilitate the interpretation of specific nucleotides. However, we can see that there are nucleotides that appear strongly conserved. Those sequences that appear in black are specific to the protein in humans. The letters that appear alone are those that are repeated a lot among sequences. As we advance, the size and thickness of the letter varies according to how it is repeated among the sequences. In the case of animals that can be infected by 229E, we see that there are many letters grouped in the final sections. This means that there is a lot of variation in nucleotides in these areas. However, we see that in the first part, the variation is lower.
