@@ -11,8 +11,8 @@ In the second step, we will search for species that have a closer relationship w
 After selecting the datasets we are going to use, based on the literature, we proceed to carry out a deeper study of the genetic sequences of the receptors of each animal species. In this case, we have selected three animal species from the dataset that have a 70-80% similarity. In these three animal species, according to scientific literature, cases of 229E infection have been observed, in fact, they are the animals where more pathological cases have been confirmed. On the other hand, we have decided to use three species that are closer to 100% similarity with the original sequence. These species are:
 ## List of target species
 
-|Species||% of similarity|
-|-------||---------------|
+|Species||similarity|
+|-------||----------|
 |Macaca mulatta||94.938|
 |Pan troglodytes||98.656|
 |Mandrillus leucophaeus||94.215|
