@@ -37,8 +37,8 @@ def getpattern( muscle, margin=0 ):
 
 
 nonp = list( getpattern( nondb.drop( nondb.columns[ -4: ], axis=1 ) ) )
-yesp = list( getpattern( yesdb.drop( yesdb.columns[ -4: ], axis=1 ) ) )
-diff = ''.join( '=' if y == n or y != '-' else n for y, n in zip( yesp, nonp ) )
+yesp = list( getpattern( yesdb.drop( yesdb.columns[ -4: ], axis=1 ), 3 ) )
+diff = ''.join( '=' if y == n or n != '-' else y for y, n in zip( yesp, nonp ) )
 
 
 def cprint( l, window=7, margin=2 ):
@@ -51,4 +51,17 @@ def cprint( l, window=7, margin=2 ):
 		print( x[ 0 ], end='\x1b[0m' )
 
 
-cprint( diff )
+def fuzzpro_print( l, window=7, margin=2 ):
+	s = 0
+	for x in sliding_window( l, window ):
+		if sum( c != '=' for c in x ) > margin: s = window
+		aa = x[ 0 ] if x[ 0 ] != '=' else 'x'
+		if s:
+			yield '\x1b[33m' + aa + '\x1b[0m'
+			s -= 1
+		else:
+			yield aa
+
+
+print( '-'.join( fuzzpro_print( diff ) ) )
+print( '\n' )

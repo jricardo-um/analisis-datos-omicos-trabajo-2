@@ -9,11 +9,13 @@ with open( '../flow_2/evidences.tsv' ) as file:
 
 non_sars2 = []
 yes_sars2 = []
+unk_sars2 = []
 for index, series in database.iterrows():
 	if series[ 'evidence-2' ] == -2: non_sars2.append( series[ 'uniprot' ] )
 	elif series[ 'evidence-2' ] == 2: yes_sars2.append( series[ 'uniprot' ] )
-for f, l in ( ( 'yes', yes_sars2 ), ( 'non', non_sars2 ) ):
-	with open( f'./all.fasta', 'a' ) as file:
+	elif series[ 'score' ] > 1400: unk_sars2.append( series[ 'uniprot' ] )
+for f, l in ( ( 'yes', yes_sars2 ), ( 'non', non_sars2 ), ( 'lss', unk_sars2 ) ):
+	with open( f'./more/{f}.fasta', 'a' ) as file:
 		rgp = regex.compile( r'(tr|sp)\|([^ ]*)\|([^ ]*)' )
 		rgt = regex.compile( r'(OS=)([^=]*)( )' )
 		rgx = regex.compile( r'(OX=)([^=]*)( )' )
