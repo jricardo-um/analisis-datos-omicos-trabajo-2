@@ -50,6 +50,8 @@ After selecting the datasets we are going to use, based on the literature, we pr
 After finishing the literature search, we decided to use these three species to conduct the study of the 229E receptor sequence. To do this, we first performed an analysis of the sequences with the usegalaxy.com application using the `sequence Logo` tool. Next, we used the NGPhylogeny application that performs multiple alignments and phylogenetic trees. From this, we will identify the sequence differences between the different receptors. For this, we will create two datasets, one with all the species that are infected, and another with those that are not infected.
 
 # Human coronavirus 229E
+The first human coronavirus was isolated from the B814 strain in 1965. It was discovered in the respiratory tract of patients with the common cold during studies on nasal samples. The 229E species was isolated from cultured standard tissues. This virus is generally associated with upper respiratory tract diseases, accounting for a total of 15-30% of common cold cases in humans.
+
 
 # Results and Discussion
 
